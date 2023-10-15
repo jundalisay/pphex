@@ -1,14 +1,92 @@
 {{ define "main" }}
-  <div class='mx-auto flex {{ partial "utils/page-width" . }}'>
+<style type="text/css">
+  .banner {
+    background: #fff url("{{ .Params.banner }}") center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+  }
+</style>
+
+
+  <div class='banner w-full flex'>
     {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" true) }}
     {{ partial "toc.html" . }}
-    <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
-      <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
-        <h1 class="text-center mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">{{ .Title }}</h1>
-        <div class="content">
-          {{ .Content }}
+
+    <section class="" data-sal="fade">
+      <br>
+      <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12" >
+        <h1 class="text-4xl mb-4 font-extrabold text-slate-900 tracking-tight leading-none">{{ .Params.title }}</h1>
+        <h2 class="text-lg mb-8 text-gray-900 tracking-tight leading-none ">{{ .Params.description }}</h1>        
+
+
+        <div class="flex flex-wrap justify-center my-4">
+          {{ range .Params.buttons }}
+            <a href="{{ .link }}">
+              <button type="button" class="inline-flex shadow-lg items-center px-4 py-2 text-sm font-medium rounded-lg inline-block dark:bg-secondary-100 dark:hover:bg-neutral-700 hover:bg-gray-100 mx-2 text-gray-900" style="">
+               <!-- text-transform: uppercase  -->
+                <img src="{{ .img }}" height="50px" width="50px" class="pr-4">
+                <small>{{ .label }}</small>
+              </button>
+            </a>
+          {{ end }}
         </div>
-      </main>
-    </article>
+
+
+          <div class="aspect-w-16 aspect-h-9 py-4 my-2" style="height: max-content !important;">
+            <iframe class="w-full" style="aspect-ratio: 16 / 9 !important;" frameborder="0" src="https://www.youtube.com/embed/{{ if .Params.youtube }}{{ .Params.youtube }}{{ else }}5fL2_ZcRgNQ{{ end }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+
+      </div>
+    </section>
   </div>
+
+
+
+  {{ with .Params.req }}
+    {{ partial "req.html" . }}
+  {{ end }}
+
+  <!-- icons -->
+  {{ with .Params.features }}
+    {{ partial "features.html" . }}
+  {{ end }}
+
+  {{ with .Params.personas }}
+    {{ partial "personas.html" . }}
+  {{ end }}
+
+  {{ with .Params.countries }}
+    {{ partial "countries.html" . }}
+  {{ end }}
+
+
+  {{ with .Params.personas2 }}
+    {{ partial "personas.html" . }}
+  {{ end }}
+
+
+  {{ with .Params.how }}
+    {{ partial "how.html" . }}
+  {{ end }}  
+
+
+
+  {{ with .Params.duo }}
+    {{ partial "duo.html" . }}
+  {{ end }}
+
+  {{ with .Params.duo2 }}
+    {{ partial "duo2.html" . }}
+  {{ end }}
+
+  {{ with .Params.feedback }}
+    {{ partial "feedback.html" . }}
+  {{ end }}
+
+  {{ with .Params.cta }}
+    {{ partial "cta.html" . }}
+  {{ end }}
+
 {{ end }}

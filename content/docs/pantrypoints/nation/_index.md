@@ -1,0 +1,14 @@
+---
+title: "Pantrypoints Nation"
+description: "Pantrypoints Nation connects Pantrypoints Cities"
+lead: "Pantrypoints Nation is the free trade platform of the Pantrypoints system for local Cities"
+date: 2020-10-13T15:21:01+02:00
+lastmod: 2020-10-13T15:21:01+02:00
+images: []
+menu:
+  docs:
+    identifier: "nation"
+    parent: "pantrypoints"
+weight: 5
+toc: true
+---

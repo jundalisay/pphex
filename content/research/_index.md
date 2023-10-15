@@ -1,4 +1,0 @@
----
-linkTitle: "Research"
-title: Research
----

@@ -1,141 +1,156 @@
 ---
-# layout: hextra-home
-title: "Superphysics: Wave-based Scientific Paradigm"
-image : "/og/sp.jpg"
-heading : "A New Science Based on Metaphysics and Socratic Dialectics"
-youtube: 8bnws4po7ew
-sub: All Knowledge Can Be Grouped Into Three
+title : "The Circular Economy That Solves Inflation"
+description: "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
+# wrong date
+date: 2020-10-06T08:47:36+00:00
+lastmod: 2022-07-27T08:47:36+00:00
+youtube: AfByl9Mywi4
+banner: "/photos/holdhands.jpg"
+buttons:
+  - label : "Register in the Waitlist"
+    link : "https://hub.pantrypoints.com/signup"
+    img: "/icons/pantry50.png"
+  - label : "Check out the science"
+    link : "https://superphysics.org/social/economics/"
+    img: "/icons/sp100.png"
 
-cards:
+
+req:
+  title: Among the Mongols who are ignorant of the use of money, cattle are the measures of value. Wealth to them consisted in cattle, as to the Spaniards it consisted in gold and silver. Of the two, the Mongol notion, was nearest to the truth. (Adam Smith)
+  avatar: "/avatars/smith.png"
+
+
+personas:
+  title: Introducing Asynchronous Tri-sactions
+  subtitle: "Trisactions allow money, moneyless, or metaverse transactions without waiting for fulfillment from the other party. This allows the economy to run under any social conditions, allowing true economic freedom"
+  image: "/photos/yay.jpg"
   items:
-    - icon : "/icons/tao.png"
-      title : "Metaphysics"
-      sub : "0-50% Replicable: Paradoxical"
-    - icon : "/icons/sp.png"
-      title : "Superphysics"
-      sub : "51-99% Replicable: Subjective"
-    - icon : "/icons/atom.png"
-      title : "Physics"
-      sub : "100% Replicable: Objective"
+    - name : "1: Moneyless"
+      icon: /icons/moneyno.png
+      content : "Moneyless transactions use barter-credits<br> measured in points which are pegged to grains.<br> This implements the grain-based valuation<br> mentioned in The Wealth of Nations<br> by Adam Smith"
+    - name : "2: Money"
+      icon: /icons/money.png
+      content: "'Money points' allow money to pay<br> for the moneyless transactions via cash or<br> cashless banking apps of the fiat economy"    
+    - name : "3: Metaverse"
+      icon: /icons/eth.png    
+      content : "The points can be converted to Pantry Coins<br> to allow regulated transactions<br> from the Metaverse via Ethereum. <br> This is useful for cross-border transactions and<br> our proposed 'crypto-easing'<br> (our alternative to quantitative easing)"
+      
+
+countries:
+  title : "Locations"
+  sub: Here are the cities where we are prototyping our system. Feel free to add your city by registering in the waitlist. 
+  flags:
+    - name : "Las Pinas"
+      icon : "/flags/ph.png"
+    - name : "San Pedro Laguna"
+      icon : "/flags/ph.png"
+    - name : "Kuala Lumpur (coming soon!)"
+      icon : "/flags/my.png"
+    - name : "Hanoi (coming soon!)"
+      icon : "/flags/vn.png"
+    - name : "Saigon (coming soon!)"
+      icon : "/flags/vn.png"      
 
 
-tricon1:
-  heading : "The Nature of the Soul"
-  title : "Everything is a wave that manifests as a particle"
-  sub : "The analog universe streams in real-definition to create reality"
-  youtube: dc4VNkfqs1s
-  icon : "/icons/sp.png"
-  link: "/superphysics/principles"
+
+personas2: 
+  title: Which are you?
+  image: "/photos/freelance.jpg"
   items:
-    - url : "/superphysics/principles/chapter-01/"
-      img: /photos/physics/ai.jpg 
-      title : "We're in a Matrix!"
-      sub : "See how we can exist well in it"
-    - url : "/superphysics/principles/chapter-02"
-      img: /photos/idea.jpg 
-      title : "Everything is an Idea"
-      sub : "Inside the Mind or Matrix"
-    - url : "/superphysics/principles/chapter-04b"
-      img: /graphics/physics/math.jpg
-      title : "A New Math for a New Science"
-      sub : "Has relativity baked in"
-    - url : "/superphysics/principles/chapter-11"
-      img: /avatars/socrates.jpg     
-      title : "Socratic Dialectics for Solving Problems"
-      sub : "Do you have a problem? The solution already exists!"
+    - name : "I'm a teacher"
+      icon: /icons/teacher.png
+      content : "I need to take attendance and visualize student performance"
+      link: /pantrypreneur/educate
+      buttontext: Go
+    - name : "I'm a micro-small business"
+      icon: /icons/shop.png    
+      content : "I need online presence as a website, web app, mobile app, or social media"
+      link: /services/build/
+      buttontext: Go
+    - name : "I'm Unemployed"
+      icon: /icons/jobless.png
+      content : "I need to get a job but don't have the required skills"      
+      link: https://circle.pantrypoints.com/
+      buttontext: Go      
+    - name : "I'm health-conscious"
+      icon: /icons/apple.png
+      content: "Healtcare is expensive so I need to eat right"
+      link: /trisactions/health/
+      buttontext: Go
+    - name : "I'm an investor"
+      icon: /icons/investor.png
+      content: "I want my investments to make a lot of impact"
+      link: /trisactions/invesure/
+      buttontext: Go
+    - name : "I'm a banker"
+      icon: /icons/banker.png
+      content: "I want a solution to banking crises. The stress is too much."
+      link: /trisactions/banking/
+      buttontext: Go      
+    - name : "I'm a farmer"
+      content: "I need a solution to global warming!"    
+      icon: /icons/farmer.png
+      link: /pantrypreneur/farm/
+      buttontext: Go
+    - name : "I'm with the Government"
+      icon: /icons/gov.png
+      content : "We need to earn more revenue for public services"
+      link: /services/tax/
+      buttontext: Go
 
 
-# articles1:
-#   items:
-#     - url : "/superphysics/principles/chapter-10"
-#       img : "/photos/physics/ai.jpg" 
-#       title : "What's Superphysics?"
-#       sub : "A new science based on the original Socratic Dialectics"
-#     - url : "/superphysics/principles/chapter-11"
-#       img : "/avatars/socrates.jpg" 
-#       title : "What's Socratic Dialectics?"
-#       sub : "A thinking paradigm that allows both Physics and Metaphysics"
+how:
+  title : "How it Works"  
+  steps:
+    - content: "Post your item using a points price instead of a money price"
+      image: "/screens/pantryshow.jpg"
+      id: 1
+    - content: "Meetup with the buyers of your item"
+      image: "/photos/shake.jpg"
+      id: 2    
+    - content: "Pay in points"
+      image: "/screens/pay.jpg"
+      id: 3
+      
 
-tricon2:
-  heading : "The Soul of the Physical Universe"
-  title : "Material Superphysics"
-  sub : "Based on Descartes and the five layers of the ancient Greek, Hindus, and Chinese"
-  youtube: 3l9J6tH4iD0
-  icon : "/icons/spmat.png"
-  link: "/material/principles"
+
+duo2:
+  title : "Originally Built by the Inca"
+  subtitle: "The Inca made a large scale points-based economic system using strings for points. The Spanish destroyed it and replaced it with the current crisis-prone money-based system."
+  banner: "/photos/inca.jpg"
+  link: "https://gizmodo.com/the-greatest-mystery-of-the-inca-empire-was-its-strange-5872764"
+  linktext: "Read how the Inca system worked"  
   items:
-    - url : "/material/principles/intro/chapter-01"
-      img: /graphics/physics/aetherdrag.jpg
-      title : "The Five Layers of Superphysics"
-      sub : "The Material, Radioactive, Radiant, Spatial, and Aethereal"
-    - url : "/material/fallacies/general-relativity/"
-      img: /graphics/physics/general.jpg
-      title : "The Alternative to General Relativity"
-      sub : "The Metaphysics of Spacetime"
-    - url: "/material/principles/part-2/chapter-02/"
-      img : "/photos/physics/quasar.jpg"
-      title : "Aethereal Propulsion"
-      sub : "We bring back the theory of gravity from Kepler and Descartes"
-    - url : "/material/principles/part-3/chapter-02/"
-      img: /photos/physics/elec.jpg
-      title : "Electrons are Positive, Protons are Negative"
-      sub: "We use male-female to avoid confusion"
+    - image: "/photos/qullqa.jpg"
+      imagetext: "We implement the Qulqa <br> as pantries"
+    - image: "/photos/quipu.jpg"
+      imagetext: "We implement the Quipu <br> as points, thus Pantrypoints"
 
 
-tricon3:
-  heading : "The Soul of Living Entities"
-  title : "Bio Superphysics"
-  sub : "Based on the dynamics of the sentient energy"
-  youtube: Y6YKmtqJak4
-  icon : "/icons/spmed.png"
-  link: "/medical/principles"
+
+feedback:
+  title: "Feedback"
   items:
-    - url : "/medical/physical/principles/5-paradigms"
-      img: /photos/med/cancer2.jpg
-      title : "Cancers and Diseases Have Been Cured by Non-Western Medicine"
-      sub : "See the wave-based alternatives to particle-based Western Medicine"
-    - url : "/medical/principles/chapter-01"
-      img: /photos/psych/schizo.jpg 
-      title : "You Have 3 Billion Selves"
-      sub : "'You' are made up of a changing wave of 'yous'"
-    - url : "/medical/physical/smith-veg"
-      img: /avatars/smithstatue.jpg 
-      title : "Adam Smith the Vegetarian"
-      sub : "He preferred vegetables, specifically potatoes, over meat"
+    - user : "Prof. Dhanjoo Ghista, University 2020 Foundation President"
+      image: "/avatars/dhanjoo.jpg"
+      content: "I very much like this work:<br> A Research Proposal For The Formalization Of<br> The Science Of Supereconomics And<br> The Establishment Of A Point-Based Economic System"
+      link: "http://www.dhanjooghista.com"
+    - user : "Prof. Gavin Kennedy, a world expert on Adam Smith"
+      image: "/avatars/gavin.jpg"
+      content: "I believe it is developing into a worthwhile project" 
+      link: "http://adamsmithslostlegacy.blogspot.com"
+      
 
-    - url : "/medical/solutions/covid/"
-      img: /photos/med/covid.jpg 
-      title : "How to Stop Covid"
-      sub : "See how NATO could have stopped Covid back in 2020"
+##################### Call to action #####################
 
-
-
-tricon4:
-  heading : "The Soul of Society"
-  title : "Social Superphysics"
-  sub : "Fellow-Feeling Instead of Selfish-Interest"
-  youtube: AfByl9Mywi4
-  icon : "/icons/spsoc.png"  
-  items:
-    - url : "/social/supersociology/principles/part-1/chapter-01"
-      img: /photos/vanity.jpg 
-      title : "The Ego is the Cause of Problems in Society"
-      sub : "See how supersociology aims to fix it"
-    - url : "/social/economics/principles/intro/chapter-03"
-      img : "/photos/grains.jpg" 
-      title : "The Metaphysics of Value and the Four Laws of Value"
-      sub : "Supereconomics deals with resource allocation and socio-economic issues"
-    - url : "/social/supersociology/principles/part-1/chapter-05"
-      img: /photos/medieval/hitler.jpg 
-      title : "The Socratic Law of Social Cycles"
-      sub : "See how we use it to predict events like presidential elections and recessions"
-    - url : "/social/cycles/"
-      img: /photos/ukraine.jpg      
-      title : "Social Cycles Predictions"
-      sub : "See our model's predictions for various countries"
-
+cta:
+  title : "Register in the Waitlist"
+  buttons:
+    - text: "Sure!"
+      color: bg-blue-100
+      link: "https://hub.pantrypoints.com/signup"
+    - text: "I need to know more"
+      color: bg-red-100    
+      link : "https://superphysics.org/social/economics/fallacies/equilibrium-fallacy"
 
 ---
-
-
-

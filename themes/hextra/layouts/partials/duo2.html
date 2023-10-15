@@ -1,0 +1,31 @@
+<style type="text/css">
+  .duo2 {
+    background: #000 url("{{ .banner }}") center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+  }
+</style>
+
+
+<section class="duo2 text-center" style="padding: 4rem;">
+  <div class="p-3 mx-3" style="opacity: 0.9">
+    <h3 class="text-4xl mb-4 font-extrabold tracking-tight text-white">{{ .title | markdownify }}</h3>
+    <div class="text-white pb-4">{{ .subtitle | markdownify }}</div>
+    <button class="rounded-lg">
+      <a class="btn btn-sm btn-secondary" href="{{ .link }}">{{ .linktext }}</a>      
+    </div>
+  </div>
+  <br>
+  <div class="flex justify-center" style="flex-wrap: wrap;">
+    {{ range .items }}  
+      <div class="border rounded-xl zoom-xs shadow-lg bg-white dark:bg-dark p-4" style="margin: 0.625rem; opacity: 0.9">    
+        <img src="{{ .image }}" class="w-64" >
+        <small class="leading-tight">        
+          {{ .imagetext | markdownify }}
+        </small>
+      </div>
+    {{ end }}        
+  </div>
+</section>    

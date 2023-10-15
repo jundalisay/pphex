@@ -1,0 +1,29 @@
+<br>
+
+<div class="py-4 text-center">
+  <div class="mt-16 p-4">
+    <div class="mb-4">
+      <h3 class="text-4xl mb-4 font-extrabold tracking-tight leading-none">{{ .title | markdownify }}</h3>
+      <h4 class="pb-4">{{ .sub | markdownify }}</h4>
+    </div>
+    <div class="flex flex-wrap justify-center">
+      {{ range .flags }}
+        <div class="border rounded-xl zoom-xs shadow-lg bg-white dark:bg-dark mx-4 p-4" style="opacity: 0.9">
+          <img class="mx-auto" src="{{ .icon | markdownify }}" height="70px" width="70px" />
+          <small class="" style="text-transform: uppercase;">{{ .name | title }}</small>
+          <p>{{ .content | markdownify }}</p>
+          <div class="card-footer mt-auto">          
+            <a href="{{ .link }}" class="py-2 btn btn-block btn-primary">
+              <svg fill='gray' class='' height='15px' viewBox='0 0 448 512'><path d='M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z'/></svg>
+              {{.buttontext | markdownify }}
+            </a>          
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<br>
+
+

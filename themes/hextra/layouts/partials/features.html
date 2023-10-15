@@ -1,0 +1,37 @@
+<style type="text/css">
+  .features {
+    background: #fff url("{{ .image }}") center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+  }
+</style>
+
+<br>
+
+<div class="features py-4 pt-8">
+  <div class="text-center py-4" style="opacity: 0.9">
+    <div class="card text-dark mb-4">
+      <h3 class="text-4xl mb-4 font-extrabold tracking-tight leading-none">{{ .title | markdownify }}</h3>      
+      <div class="subtitle is-5 pb-4 f18">{{ .subtitle | markdownify }}</div>
+    </div>
+    <div class="lg:grid-cols-3 grid-cols-1">
+      {{ range .items }}
+        <div class="col mb-4 ">
+          <div class="card card-equal-height shadow p-4 mx-2">          
+            <a href="{{ .link }}">
+              <i class="zoom-xs mb-3">{{.icon | markdownify }}</i>
+            </a>
+            <h3 class="h5 mb-2">{{ .name | title }}</h3>
+            <p>{{ .content | markdownify }}</p>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+
+
+<br>
