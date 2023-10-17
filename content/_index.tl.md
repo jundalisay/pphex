@@ -31,15 +31,15 @@ countries:
   # subtitle: "We'll deploy an app for your city once the waitlist for that city gets filled."
   flags:
     - name : "Las Pinas"
-      flag : "/flags/ph.png"
+      icon : "/flags/ph.png"
     - name : "San Pedro Laguna"
-      flag : "/flags/ph.png"
+      icon : "/flags/ph.png"
     - name : "Kuala Lumpur (coming soon!)"
-      flag : "/flags/my.png"
+      icon : "/flags/my.png"
     - name : "Hanoi (coming soon!)"
-      flag : "/flags/vn.png"
+      icon : "/flags/vn.png"
     - name : "Saigon (coming soon!)"
-      flag : "/flags/vn.png"      
+      icon : "/flags/vn.png"      
 
 
 
@@ -53,13 +53,13 @@ personas:
   items:
     - name : "1: Walang Pera"
       icon: /icons/moneyno.png
-      content : "Ang Moneyless o barter transactions ay gumagamit ng stored-value points na nakabase sa bigas" 
+      content : "Ang Moneyless o barter transactions<br> ay gumagamit ng stored-value points<br> na nakabase sa bigas" 
     - name : "2: Pera"
       icon: /icons/money.png    
-      content : "Pwedeng gumamit ng pera sa pamamagitan ng 'money points', gamit ang cash o cashless"
+      content : "Pwedeng gumamit ng pera sa pamamagitan<br> ng 'money points', gamit ang cash o cashless"
     - name : "3: Metaverse"
       icon: /icons/eth.png    
-      content : "Ang points ay pwedeng ilipat sa 'Pantry Coins' para magamit sa ethereum transactions"
+      content : "Ang points ay pwedeng ilipat sa 'XCoins'<br> para magamit sa ethereum transactions"
             
 
 how:
@@ -104,9 +104,9 @@ duo2:
   linktext: "Paano gumagana ang sistema ng mga Inca?"  
   items:
     - image: "/photos/qullqa.jpg"
-      imagetext: "Ang Qulqa system ay pantries namin"
+      imagetext: "Ang Qulqa system ay<br> pantries namin"
     - image: "/photos/quipu.jpg"
-      imagetext: "Ang Quipu strings ay points namin, kaya Pantrypoints"
+      imagetext: "Ang Quipu strings ay<br> points namin, kaya Pantrypoints"
 
 
 feedback:
@@ -114,14 +114,14 @@ feedback:
   items:
     - user : "Prof. Dhanjoo Ghista, University 2020 Foundation President"
       image: "/avatars/dhanjoo.jpg"
-      content: "I very much like this work: A Research Proposal For The Formalization Of The Science Of Supereconomics And The Establishment Of A Point-Based Economic System"
+      content: "I very much like this work:<br> A Research Proposal For The Formalization<br> Of The Science Of Supereconomics And<br> The Establishment Of A Point-Based Economic System"
       link: "http://www.dhanjooghista.com"
     - user : "Prof. Gavin Kennedy, a world expert on Adam Smith"
       image: "/avatars/gavin.jpg"
-      content: "I believe it is developing into a worthwhile project" 
+      content: "I believe it is developing into<br> a worthwhile project" 
       link: "http://adamsmithslostlegacy.blogspot.com"
 
-##################### Call to action #####################
+
 
 cta:
   title : "Mag-Register sa Waitlist"

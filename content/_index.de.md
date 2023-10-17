@@ -26,13 +26,13 @@ personas:
   items:
     - name : "1: Geldlos"
       icon: /icons/moneyno.png
-      content : "Geldlose Transaktionen verwenden gespeicherten Werttausch, der in Punkten gemessen wird und an Getreide gebunden ist. Dies implementiert die getreidebasierte Bewertung, die in 'Der Wohlstand der Nationen' von Adam Smith erwähnt wird"
+      content : "Geldlose Transaktionen verwenden gespeicherten<br> Werttausch, der in Punkten gemessen wird<br> und an Getreide gebunden ist.<br> Dies implementiert die getreidebasierte Bewertung,<br> die in 'Der Wohlstand der Nationen'<br> von Adam Smith erwähnt wird"
     - name : "2: Geld"
       icon: /icons/money.png
-      content : "'Geldpunkte' ermöglichen die Bezahlung von geldlosen Transaktionen über Bargeld oder bargeldlose Banking-Apps der Fiat-Wirtschaft" 
+      content : "'Geldpunkte' ermöglichen die Bezahlung von geldlosen<br> Transaktionen über Bargeld oder bargeldlose Banking-Apps<br> der Fiat-Wirtschaft" 
     - name : "3: Metaverse"
       icon: /icons/eth.png    
-      content : "Die Punkte können in 'Vorratsmünzen' umgewandelt werden, um regulierte Transaktionen vom Metaverse über Ethereum zu ermöglichen. Dies ist nützlich für grenzüberschreitende Transaktionen und unser vorgeschlagenes 'Krypto-Easing' (unsere Alternative zur quantitativen Lockerung)"
+      content : "Die Punkte können in 'Vorratsmünzen'<br> umgewandelt werden, um regulierte Transaktionen<br> vom Metaverse über Ethereum zu ermöglichen.<br> Dies ist nützlich für grenzüberschreitende Transaktionen<br> und unser vorgeschlagenes 'Krypto-Easing'<br> (unsere Alternative zur quantitativen Lockerung)"
 
 
 
@@ -50,6 +50,7 @@ countries:
       icon : "/flags/vn.png"
     - name : "Saigon (coming soon!)"
       icon : "/flags/vn.png"      
+
 
 
 personas2: 
@@ -141,7 +142,7 @@ feedback:
       link: "http://adamsmithslostlegacy.blogspot.com"
 
 
-##################### Call to action #####################
+
 
 cta:
   title : "Registriere dich auf der Warteliste"
@@ -152,4 +153,5 @@ cta:
     - text: "Nicht jetzt"
       color: bg-red-100    
       link : "https://superphysics.org/social/economics/fallacies/equilibrium-fallacy"
+      
 ---

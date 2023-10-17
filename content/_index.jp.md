@@ -26,11 +26,14 @@ personas:
   subtitle: トライサクションは、お金を使った取引、お金のない取引、またはメタバースの取引を可能にし、どんな社会的な状況でも経済を運営することを目指しています。真の経済的自由を実現します。
   items:
     - name : "お金のない取引"
-      content : "お金のない取引では、積み立てられたポイントで測定される貨幣価値のバーターが使用されます。これはアダム・スミスの『国富論』で言及された穀物に基づく評価を実現します。"
+      icon: /icons/moneyno.png    
+      content : "お金のない取引では、<br>積み立てられたポイントで<br>測定される貨幣価値のバーターが<br>使用されます。これはアダム・スミスの『国富論』で<br>言及された穀物に基づく評価を実現します。"
     - name : "お金"
-      content : "「お金のポイント」は、現金またはキャッシュレスの銀行アプリを通じてお金のない取引に支払うためのお金です。"
+      icon: /icons/money.png    
+      content : "「お金のポイント」は、<br>現金またはキャッシュレスの銀行アプリを<br>通じてお金のない取引に<br>支払うためのお金です。"
     - name : "メタバース"
-      content : "ポイントはパントリーコインに変換され、イーサリアムを介してメタバースからの規制された取引を可能にします。これは国境を越える取引や、私たちが提案する「クリプトイージング」（量的緩和の代替案）に役立ちます。"
+      icon: /icons/eth.png    
+      content : "ポイントはパントリーコインに<br>変換され、イーサリアムを介してメタバース<br>からの規制された取引を可能にします。<br>これは国境を越える取引や、<br>私たちが提案する「クリプトイージング」<br>（量的緩和の代替案）に役立ちます。"
     
 
 how:
@@ -50,9 +53,12 @@ how:
 
 cta:
   title : "待ちリストに登録してください。"
-  link1text: "はい！"
-  link1 : "https://hub.pantrypoints.com/signup"
-  link2text: "まだです。"
-  link2 : "https://superphysics.org/"
+  buttons:
+    - text: "はい！"
+      color: bg-blue-100
+      link: "https://hub.pantrypoints.com/signup"
+    - text: "まだです。"
+      color: bg-red-100    
+      link : "https://superphysics.org/social/economics/fallacies/equilibrium-fallacy"
   
 ---

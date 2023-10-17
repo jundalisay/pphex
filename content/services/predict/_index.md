@@ -34,20 +34,18 @@ personas:
 
 how:
   title: "Ask about the future"
-  # title : "Don't be caught off-guard again"  
   steps:
-    # - image: "https://sorasystem.sirv.com/photos/pantry.jpg"
-    # - image: "/graphics/biz.jpg"
     - id: 1
       image: "/screens/predict/1.jpg"
       content: Ask about an event
-      # content: "Ask us a question about your society or business intention"  
     - id: 2
       image: "/screens/predict/2.jpg"
       content: "We'll run your question through our model to come up with an answer"
     - id: 3
       image: "/screens/predict/2.jpg"
       content: "We'll run your question through our model to come up with an answer"      
+
+
 
 segment:
   articles:

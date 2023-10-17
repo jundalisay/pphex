@@ -41,14 +41,19 @@ languageName = "German"
 weight = 5
 title = "Pantrypoints: Points-based Economic System"
 
+[languages.hi]
+languageName = "Hindi"
+weight = 6
+title = "Pantrypoints"
+
 [languages.id]
 languageName = "Indonesian"
-weight = 6
+weight = 7
 title = "Pantrypoints: Points-based Economic System"
 
 [languages.jp]
 languageName = "日本語"
-weight = 7
+weight = 8
 title = "Pantrypoints: Points-based Economic System"
 
 [languages.kr]
@@ -56,7 +61,6 @@ languageName = "Korean"
 weight = 9
 title = "Pantrypoints: Points-based Economic System"
 
-#
 [languages.es]
 languageName = "Spanish"
 weight = 10
@@ -68,10 +72,7 @@ weight = 11
 title = "Pantrypoints"
 
 
-[languages.hi]
-languageName = "Hindi"
-weight = 12
-title = "Pantrypoints"
+
 # [module]
 # workspace = "hugo.work"
 
@@ -192,10 +193,6 @@ weight = 903
 name = "/icons/faq.jpg"
 url = "/faq"
 
-[[menu.main]]
-weight = 910
-name = "/icons/about.jpg"
-url = "/about"
 
 
 # [[menu.main]]

@@ -2,31 +2,32 @@
 title: "Find the right match. Or just avoid the bad ones"
 description: "ISAIAH Match is our personality matching system for education, jobs, products, fake news, and relationships, as a part of a new morality-based socio-economic system"
 youtube: 5alMsLDgc00
+banner: /photos/shake.jpg
 
   
 personas:
-  image: /photos/shake.jpg
+  # image: /photos/shake.jpg
   title : "Matchmaking isn't just for relationships"
   subtitle: "ISAIAH's 'skills' can help solve chronic problems in society that are unsolved by science"
   items:
     - name : "Employers"
       #usertie
       icon: /icons/banker.png   
-      content : "Have you ever hired the wrong employee? Getting the wrong person for the job could be very costly"
+      content : "Have you ever hired the<br> wrong employee? Getting<br> the wrong person for the job<br> could be very costly"
     - name : "Education"
       icon: /icons/teacher.png    
-      content : "Are you sure you're studying the course that's best for you? Get it right with Match"
+      content : "Are you sure you're studying<br> the course that's best for you?<br> Get it right with Match"
     - name : "Health Risk"
       icon: /icons/meds.png
-      content : "Is your current personality matching you with a future diabetes at 40? Know your future health risks before you end up with them"
+      content : "Is your current personality matching<br> you with a future diabetes at 40?<br> Know your future health risks before<br> you end up with them"
 
     - name : "Marriage"
       icon: /icons/banking.png
-      content : "We automate the traditional matchmaker with machine learning"
+      content : "We automate the traditional matchmaker<br> with machine learning"
 
     - name : "Criminality"
       icon: /icons/thief.png
-      content: "Reduce the chance of criminal behavior in your event or organization"
+      content: "Reduce the chance of criminal behavior<br> in your event or organization"
 
 
 platform:

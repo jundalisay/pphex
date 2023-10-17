@@ -2,6 +2,7 @@
 title: "Socratic FAQ"
 description: "Pantrypoints FAQ"
 image: /og/pantrypoints.jpg
+toc: false
 ---
 
 

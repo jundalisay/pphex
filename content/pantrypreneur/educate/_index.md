@@ -1,10 +1,8 @@
 ---
 title: Educate
-logo: "/logos/educate.png"
-image: "/og/educate.jpg"
 description: "Pantrypreneur Educate and Apprentice are social education systems derived from Adam Smith's educational reform proposal in the Wealth of Nations"
 youtube: By4cXCekyDY
-
+banner: /photos/holdhands.jpg
 
 
 req:
@@ -21,13 +19,13 @@ personas:
   # title : "Points-based learning and payment"
   items:
     - name : "Attendance"
-      icon: 
+      icon: /icons/clock.png
       content : "Students clock in for each class"
     - name : "Points-Capable"      
-      icon: 
+      icon: /icons/charts.png
       content : "Pay in points if money is lacking"      
     - name : "Grades"
-      icon: 
+      icon: /icons/appraise.png
       content : "Visualize student performance and transfer student profiles between schools" 
 
 
@@ -66,7 +64,12 @@ feedback:
 
 cta:
   title : "Register in the Waitlist"
-
-  link2 : "https://superphysics.org/research/smith/wealth-of-nations/book-5/chapter-1/part-3zd"
+  buttons:
+    - text: "Sure!"
+      color: bg-blue-100
+      link: "https://hub.pantrypoints.com/signup"
+    - text: "I need to know more"
+      color: bg-red-100    
+      link : "https://superphysics.org/research/smith/wealth-of-nations/book-5/chapter-1/part-3zd"
   
 ---

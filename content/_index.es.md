@@ -26,13 +26,13 @@ personas:
   items:
     - name : "1: Sin dinero"
       icon: /icons/moneyno.png
-      content : "Las transacciones sin dinero utilizan trueque de valor almacenado medido en puntos que están ligados a granos. Esto implementa la valoración basada en granos mencionada en La Riqueza de las Naciones de Adam Smith."
+      content : "Las transacciones sin dinero utilizan<br> trueque de valor almacenado medido en puntos<br> que están ligados a granos.<br> Esto implementa la valoración basada<br> en granos mencionada en La Riqueza de las Naciones<br> de Adam Smith."
     - name : "2: Dinero"
       icon: /icons/money.png
-      content : "Los puntos monetarios permiten utilizar<br> dinero para pagar las transacciones sin dinero a través de efectivo o aplicaciones bancarias sin efectivo de la economía fiduciaria." 
+      content : "Los puntos monetarios permiten utilizar<br> dinero para pagar las transacciones sin dinero a través<br> de efectivo o aplicaciones bancarias sin efectivo<br> de la economía fiduciaria." 
     - name : "3: Metaverso"
       icon: /icons/eth.png
-      content : "Los puntos pueden convertirse en Monedas de Despensa para permitir transacciones reguladas desde el metaverso a través de Ethereum. Esto es útil para transacciones internacionales y nuestra propuesta de cripto-alivio (nuestra alternativa a la flexibilización cuantitativa)."
+      content : "Los puntos pueden convertirse en<br> Monedas de Despensa para permitir transacciones reguladas<br> desde el metaverso a través de Ethereum.<br> Esto es útil para transacciones internacionales<br> y nuestra propuesta de cripto-alivio<br> (nuestra alternativa a la flexibilización cuantitativa)."
     
 
 

@@ -2,11 +2,9 @@
 title: "Terms of Service"
 image: "/logos/pantry.png"
 description: "Terms of Service"
-linkb: "news"
-linkbtext: "News"
-linkf: "about/privacy"
-linkftext: "Privacy"
 ---
+
+
 
 ### Definitions
 
