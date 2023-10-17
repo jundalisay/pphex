@@ -1,15 +1,13 @@
 ---
 title: "탄력적인, 스마트 시티"
-subtitle: "'팬트리포인츠 시티'는 도시 내 하이퍼로컬 '트리젹션'을 위한 플랫폼입니다" 
-logo: "/logos/city.png"
-image: "/og/city.jpg"
+banner: "/photos/inca.jpg"
 description: "'팬트리포인츠 시티'는 도시 내 하이퍼로컬 '트리젹션'을 위한 플랫폼입니다"
 youtube: GVkVoJzLn2g
-applink: https://hub.pantrypoints.com/signup
-apptext: "Register in the Waitlist"
 
 
-features:
+
+
+personas:
   image: "/photos/congress.jpg"
   title : "탄력적인 시티"
   subtitle: "반바꿈 크레딧 거래 ('트리젹션')를 하여 돈을 절약하고 인플레이션에 맞서면서 식품 안보와 사회적 안보를 증진시킵니다"

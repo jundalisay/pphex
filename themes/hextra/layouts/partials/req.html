@@ -17,9 +17,19 @@
     <blockquote>
       <p class="text-2xl italic font-medium dark:text-gray-300">{{ .title }}</p>
     </blockquote>
-    <figcaption class="flex items-center justify-center py-4 space-x-3">
-      <img class="w-6 h-6 rounded-full" src="{{ .avatar }}" alt="profile picture">
-    </figcaption>
+
+    {{ with .link }}
+      <a href="{{ . }}">
+        <button type="button" class="inline-flex shadow-lg items-center px-4 py-2 text-sm font-medium rounded-lg inline-block dark:bg-secondary-100 dark:hover:bg-neutral-700 hover:bg-gray-100 mx-2 text-gray-900" style="">
+          <svg fill='gray' height='30px'  viewBox='0 0 448 512'><path d='M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z'/></svg>
+        </button>
+
+      </a>
+    {{ end }}    
+
+    <div class="flex items-center justify-center py-4 space-x-3">
+      <img class="rounded-full" width="100px" height="100px" src="{{ .avatar }}" alt="profile picture">
+    </div>
 </figure>
 
 <br>

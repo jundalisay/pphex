@@ -1,3 +1,15 @@
+{{- with $.Params.images -}}
+{{- range first 6 . }}<meta property="og:image" content="{{ . | absURL }}" />{{ end -}}
+{{- else -}}
+{{- $featured := "" }}
+{{- with $featured -}}
+<meta property="og:image" content="{{ $featured.Permalink }}"/>
+{{- else -}}
+{{- with $.Site.Params.images }}<meta property="og:image" content="{{ index . 0 | absURL }}"/>{{ end -}}
+{{- end -}}
+{{- end -}}
+
+
 <div align="center">
   <h1 align="center">Hextra</h1>
   <p align="center">Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.</p>

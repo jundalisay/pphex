@@ -70,7 +70,7 @@ Development is divided into 3 domains representing the horizontal aspect:
       - Prediction
       - Matching
 
-    The Pantrypoints system will have the following universal features:
+    The Pantrypoints system will have the following universal features :
     - Points-banking
     - Pointtax  
     - Matching

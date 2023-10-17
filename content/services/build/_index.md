@@ -1,54 +1,32 @@
 ---
 title: Build the Online Presence for Your Business 
-# We build the online presence for your business
-subtitle: We build the online presence -- website, web app, social media, SEO -- for your businesses with minimal money-cost, or even barter
-# Pantry Peers is a small dedicated team that builds the Pantry system for Pantrynomics
-# subtitle: Pantry Peers is a small dedicated team creating an online economy for micro and small businesses 
-logo: "/logos/build.png"
-image: "/photos/team.jpg"
+banner: "/photos/yay.jpg"
 description: We build the online presence -- website, web app, social media, SEO -- for your businesses with minimal money-cost
-# "Pantry Peers is a small dedicated team that enables offline micro and small businesses to enter the digital age"
-# youtube: "OV1JHTiDdkQ"
-# "BXuA4483muo"
-# youtube: "3FHG_VoDlhs"
-# youtube: "DjGsLaUvYcc"
-# youtube: lRZbEcKMqpc
-# youtube: "xT37nH1w-xU"
 youtube: zIrblIJF4Nk
-# applink: "https://elivirs.com"
-# apptext: "Check out a real project"
-aliases:
-  /build
 
 
-shots:
-  # bannerfeat: "https://res.cloudinary.com/nara/image/upload/v1567936990/photos/incacroplowres.jpg" 
+
+personas:
   title : "Our Build Package"
   subtitle: "Put your business online without the hassle"
-  cards:
+  items:
     - name : "Basic graphics and logos"
-      image : "/icons/harrys.png"
       content : "We build basic graphics using Canva and other online tools"
-
+      icon : "/icons/harrys.png"
     - name : "Website, Domain, basic content"
-      image : "/screens/harrysweb.jpg"
+      icon : "/screens/harrysweb.jpg"
       content : "We build your site based on our templates and add your own original content, optimized for search engines"
-      
     - name : "Social Network and Youtube"
-      image : "/screens/harrys.jpg"
+      icon : "/screens/harrys.jpg"
       content : "We build your Facebook Page and Youtube Channel if you haven't done them yet"
-
     - name : "Analytics"
-      image : "/screens/ganalytics2.jpg"
+      icpm : "/screens/ganalytics2.jpg"
       content : "We set up a Google Analytics and Search Console for you"
 
-
-######################### How #####################
 
 how:
   title : "Start Building the Digital Presence of Your Business"  
   steps:
-    # - image: "https://sorasystem.sirv.com/photos/pantry.jpg"
     - image: "/graphics/biz.jpg"
       id: 1
       content: "Tell us your business idea and your target market, content, etc"  
@@ -110,10 +88,12 @@ how:
 
 cta:
   title : "Send us a message to get started"
-  subtitle: "If we don't reply it means your message got buried in the spam, so please send it again or multiple times"
-  link1text: "Sure!"
-  link1 : "/contact"
-  link2text: "I'm looking for something else"
-  link2 : "https://google.com"
+  buttons:
+    - text: "Sure!"
+      color: bg-blue-100
+      link: "/contact"
+    - text: "I need something else.."
+      color: bg-red-100    
+      link : "https://google.com"
 
 ---

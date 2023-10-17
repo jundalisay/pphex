@@ -152,6 +152,4 @@ cta:
     - text: "Nicht jetzt"
       color: bg-red-100    
       link : "https://superphysics.org/social/economics/fallacies/equilibrium-fallacy"
-
-
 ---

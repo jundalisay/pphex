@@ -1,16 +1,13 @@
 ---
 title: "Ang Matatag na Smart City"
-subtitle: "Ang 'Pantrypoints City' ay ang plataporma para sa hyperlocal na 'trisaksyon' sa lungsod" 
-logo: "/logos/city.png"
-image: "/og/city.jpg"
+banner: "/photos/inca.jpg"
 description: "'Pantrypoints City' es la plataforma para 'trisacciones' hiperlocales en la ciudad"
 youtube: GVkVoJzLn2g
-applink: https://hub.pantrypoints.com/signup
-apptext: "Register in the Waitlist"
-  
 
 
-features:
+
+
+personas:
   image: "/photos/congress.jpg"
   title : "Ang Matatag na Lungsod"
   subtitle: "Magkipag barter-credit ('trisaksyon') upang makatipid ng pera at labanan ang inflation habang pinapalalakas ang food security"

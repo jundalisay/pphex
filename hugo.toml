@@ -1,5 +1,5 @@
-baseURL = "https://www.superphysics.org/"
-title = "Superphysics: A New Science"
+baseURL = "https://www.pantrypoints.com/"
+title = "Pantrypoints: Points-based Economic System"
 enableRobotsTXT = true
 enableGitInfo = true
 hasCJKLanguage = true
@@ -18,43 +18,43 @@ section = [ "HTML", "RSS" ]
 [languages.en]
 languageName = "English"
 weight = 1
-title = "Superphysics: A New Science"
+title = "Pantrypoints: Points-based Economic System"
 
 [languages.ar]
 languageName = "Arabic"
 weight = 2
-title = "Superphysics: A New Science"
+title = "Pantrypoints: Points-based Economic System"
 
 [languages.zh]
 languageName = "简体中"
 weight = 3
-title = "Superphysics: A New Science"
+title = "Pantrypoints: Points-based Economic System"
 
 [languages.fr]
 languageName = "French"
 weight = 4
-title = "Superphysics: A New Science"
+title = "Pantrypoints: Points-based Economic System"
 
 #
 [languages.de]
 languageName = "German"
 weight = 5
-title = "Superphysics: A New Science"
+title = "Pantrypoints: Points-based Economic System"
 
 [languages.id]
 languageName = "Indonesian"
 weight = 6
-title = "Superphysics: A New Science"
+title = "Pantrypoints: Points-based Economic System"
 
 [languages.jp]
-languageName = "本語"
+languageName = "日本語"
 weight = 7
-title = "Superphysics: A New Science"
+title = "Pantrypoints: Points-based Economic System"
 
 [languages.kr]
 languageName = "Korean"
 weight = 9
-title = "Superphysics: A New Science"
+title = "Pantrypoints: Points-based Economic System"
 
 #
 [languages.es]
@@ -91,96 +91,111 @@ noClasses = false
 
 
 [[menu.main]]
-  name = "/icons/pantry50.png"
-  weight = 1
-  url = "/trisactions"
+identifier = "Trisactions"
+name = "/icons/pantry50.png"
+weight = 1
+url = "/trisactions"
 
 [[menu.main]]
-  name = "/icons/pantry50.png"
+  name = "/icons/banker.png"
   weight = 2
   url = "/trisactions/banking/"
 
 [[menu.main]]
-  name = "/icons/pantry50.png"
+  name = "/icons/energy.png"
   weight = 3
-  url = "https://circle.pantrypoints.com/"
+  url = "/trisactions/circle/"
+
+[[menu.main]]
+  name = "/icons/place.png"
+  weight = 4
+  url = "/trisactions/city"
+
+[[menu.main]]
+  name = "/icons/banking.png"
+  weight = 5
+  url = "/trisactions/health/"
 
 # [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 4
-#   url = "/trisactions/city"
-
-# [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 16
-#   url = "/trisactions/health/"
-
-# [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 17
+#   name = "/icons/investor.png"
+#   weight = 6
 #   url = "/trisactions/invesure"
 
 # [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 18
+#   name = "/icons/medal.png"
+#   weight = 7
 #   url = "/trisactions/nation"
 
-# [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 22
-#   url = "/trisactions/world/"
+[[menu.main]]
+  name = "/icons/w.png"
+  weight = 10
+  url = "/trisactions/world/"
 
-# [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 51
-#   url = "/pantrypreneur"
+[[menu.main]]
+  name = "/icons/p.png"
+  weight = 11
+  url = "/pantrypreneur"
 
-# [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 52
-#   url = "/pantrypreneur/educate"
+[[menu.main]]
+  name = "/icons/teacher.png"
+  weight = 12
+  url = "/pantrypreneur/educate"
 
-# [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 53
-#   url = "/pantrypreneur/farm"
+[[menu.main]]
+  name = "/icons/plants.png"
+  weight = 13
+  url = "/pantrypreneur/farm"
 
-# [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 56
-#   url = "/rewards/"
+[[menu.main]]
+  name = "/icons/loy.png"
+  weight = 16
+  url = "/pantrypreneur/rewards"
 
-# [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 70
-#   url = "/services/build/"
+[[menu.main]]
+  name = "/icons/shop.png"
+  weight = 18
+  url = "/services/build/"
 
-# [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 74
-#   url = "/services/cards"
+[[menu.main]]
+  name = "/icons/cards.png"
+  weight = 19
+  url = "/services/cards"
 
-# [[menu.main]]
-#   name = "Tax"
-#   weight = 76
-#   url = "/services/tax"
+[[menu.main]]
+  name = "/icons/t.png"
+  weight = 24
+  url = "/services/tax"
 
-# [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 77
-#   url = "/services/match"
+[[menu.main]]
+  name = "/icons/decen.png"
+  weight = 26
+  url = "/services/match"
 
-# [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 78
-#   url = "/services/pantrylitics/"
+[[menu.main]]
+  name = "/icons/charts.png"
+  weight = 28
+  url = "/services/pantrylitics/"
 
-# [[menu.main]]
-#   name = "/icons/pantry50.png"
-#   weight = 79
-#   url = "/services/predict/"
+[[menu.main]]
+  name = "/icons/maps.png"
+  weight = 30
+  url = "/services/predict/"
 
 
+[[menu.main]]
+weight = 900
+name = "/icons/cal.png"
+url = "/news"
+
+[[menu.main]]
+weight = 903
+name = "/icons/faq.jpg"
+url = "/faq"
+
+[[menu.main]]
+weight = 910
+name = "/icons/about.jpg"
+url = "/about"
 
 
 # [[menu.main]]
@@ -267,17 +282,6 @@ noClasses = false
 #   url = "https://twitter.com/pantrypoints"
 #   weight = 24
 
-
-
-[[menu.main]]
-weight = 16
-name = "FAQ"
-url = "/faq"
-
-[[menu.main]]
-weight = 18
-name = "About"
-url = "/about"
 
 
 [[menu.main]]

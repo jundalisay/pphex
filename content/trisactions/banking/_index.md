@@ -1,23 +1,26 @@
 ---
 title: Bank the Unbanked
-subtitle: Pantrypoints Banking is a low-cost moneyless banking system that circulates the economy unserved by the financial system 
-logo: "/logos/banking.png"
-image: "/og/banking.jpg"
-description: "Pantrypoints Banking is a low-cost moneyless banking system that circulates the economy unserved by the financial system"
-# youtube: "OV1JHTiDdkQ"
-# youtube: zOVoXqOcI7E
-youtube: WbV48G5dFtc
-applink: https://hub.pantrypoints.com/signup
-apptext: "Register in the Waitlist"
-aliases:
-  /banking
-  /services/banking
+description: Pantrypoints Banking is a low-cost moneyless banking system that circulates the economy unserved by the financial system 
+banner: "/photos/quipu.jpg"
+youtube: 6b9R04CgS6w
+buttons:
+  - label : "Register in the Waitlist"
+    link : "https://hub.pantrypoints.com/signup"
+    img: "/icons/pantry50.png"
+  - label : "Check out the science"
+    link : "https://superphysics.org/social/economics/"
+    img: "/icons/sp100.png"
 
 
-# features:
+req:
+  title: Based on the requirements in the Wealth of Nations
+  link: "https://superphysics.org/research/smith/wealth-of-nations/book-2/chapter-3c"
+  btext: "Read the requirements"
+  avatar: "/avatars/smith.png"
+
+
 personas:
-  image: "/photos/inca.jpg" 
-  # image: "https://res.cloudinary.com/nara/image/upload/v1567936990/photos/incacroplowres.jpg" 
+  image: "/photos/inca.jpg"
   title: "Inspired by the Moneyless, Paperless system of the Inca"
   subtitle: "Points-banking allows the regulated transfer of points between users"
   items:
@@ -39,7 +42,6 @@ personas:
     - name : "Integrates with Taxation"
       content : "Points Banking will integrate with Pointtax to allow tax payments in kind"
       icon: /icons/tax.png
-  # = image_tag 'https://sorasystem.sirv.com/photos/quipu.jpg', class: 'img-fluid rounded'
 
 
 ######################### How #####################
@@ -47,7 +49,6 @@ personas:
 how:
   title : "How it Works"  
   steps:
-    # - image: "https://sorasystem.sirv.com/photos/pantry.jpg"
     - id: 1
       content: "Gain points with other users and companies in the moneyless economy"  
       image: "/screens/po3.jpg"
@@ -57,14 +58,6 @@ how:
     - id: 3
       image: "/screens/po1.jpg"
       content: "Use your points as usual"
-
-
-req:
-  title: Based on the requirements in the Wealth of Nations
-  # Book 2, Chapter 2 of
-  link: "https://superphysics.org/research/smith/wealth-of-nations/book-2/chapter-3c"
-  btext: "Read the requirements"
-  avatar: "/avatars/smith.png"
 
 
 
@@ -82,13 +75,14 @@ feedback:
       # link: http://blockchainlabs.asia
 
 
-##################### Call to action #####################
-
 cta:
   title : "Register in the Waitlist!"
-  link1text: "Sure!"
-  link1 : "https://hub.pantrypoints.com/signup"
-  link2text: "I need to know more"
-  link2 : "https://superphysics.org/social/economics/solutions/points-banking"
+  buttons:
+    - text: "Sure!"
+      color: bg-blue-100
+      link: "https://hub.pantrypoints.com/signup"
+    - text: "I need to know more"
+      color: bg-red-100    
+      link : "https://superphysics.org/social/economics/solutions/points-banking"
 
 ---

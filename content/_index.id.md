@@ -1,14 +1,7 @@
 ---
 title : "Tahan Terhadap Krisis Perbankan"
 description: "Pantrypoints adalah sistem ekonomi yang tahan, yang menggunakan poin bilateral melalui pertemuan untuk menghentikan inflasi dan memungkinkan penyerapan tenaga kerja penuh, terlepas dari kondisi ekonomi"
-lead: "Pantrypoints adalah sistem ekonomi yang tahan, yang menggunakan poin bilateral melalui pertemuan untuk menghentikan inflasi dan memungkinkan penyerapan tenaga kerja penuh, terlepas dari kondisi ekonomi"
-# wrong date
-date: 2020-10-06T08:47:36+00:00
-lastmod: 2022-07-27T08:47:36+00:00
 youtube: RCqxWx1zI_c
-# youtube: "rVP73TV2X0s"
-
-
 banner: "/photos/holdhands.jpg"
 buttons:
   - label : "Daftar dalam Daftar Tunggu"
@@ -22,10 +15,7 @@ buttons:
 req:
   title: Bagi orang-orang Mongol yang tidak mengenal uang, seekor sapi adalah ukuran nilai. Kekayaan bagi mereka diukur dalam jumlah sapi, sama seperti bagi orang Spanyol kekayaan diukur dalam jumlah emas dan perak. Konsep Mongol lebih benar. (Adam Smith)
   # link: "https://superphysics.org/research/socrates/simple-republic/book-3/chapter-3"
-  # btext: "View the requirements"
   avatar: "/avatars/smith.png"
-
-
 
 
 triobutton:
@@ -47,9 +37,9 @@ triobutton:
       link: "/services"
 
 
-### FEATURES ###
 
-features: 
+
+personas: 
   title: Tri-sactions
   # title: "A Complete Economic System, Resilient Against Crises"
   # subtitle: "Sa trisactions, pwedeng mag-transact sa pamamagitan ng pera, barter, at cryptocurrencies para mapalaya ang ekonomiya."

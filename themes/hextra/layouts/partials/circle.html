@@ -1,16 +1,31 @@
-<style type="text/css">
-  .personas {
-    background: url("{{ .image }}") center center;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-  }
-</style>
 
-<br>
 
-<div class="personas" style="padding: 4rem;">
+  <div class="row justify-content-center">
+    {{ range .cards }}
+      <div class="col pb-4">
+        <div class="card shadow text-center card-equal-height">
+          <a href="{{ .link }}">
+            <img class="rounded-circle my-3" height="100px" src="{{ .image }}" alt="{{ .name }}">
+          </a>
+          <div class="card-body">
+            <a href="{{ .link }}" style="text-decoration: none;">        
+              <b class="card-title h4">{{ .name | title }}</b>
+            </a>
+            <p class="p-2 card-text">{{ .content | markdownify }}</p>
+          </div>
+          <small class="card-footer">{{ .footer | safeHTML }}</small>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</section>
+
+
+
+
+
+
+<div class="" style="padding: 4rem;">
 
   <div class="p-4 rounded-lg bg-white dark:bg-yellow-700/30 text-center" style="opacity: 0.9;">        
     <h1 class="text-4xl py-4 font-extrabold tracking-tight leading-none">{{ .Title }}</h1>

@@ -10,33 +10,89 @@
 </style>
 
 
-<div class='banner w-full flex mt-16'>
-  <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12" >
-    <h1 class="text-4xl mb-4 font-extrabold tracking-tight leading-none">{{ .Params.title }}</h1>
-    <h2 class="text-lg mb-8 tracking-tight leading-none ">{{ .Params.description }}</h1>        
+  <div class='banner w-full flex'>
+    {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" true) }}
+    {{ partial "toc.html" . }}
 
 
-    <div class="flex flex-wrap justify-center my-4">
-      {{ range .Params.buttons }}
-        <a href="{{ .link }}">
-          <button type="button" class="inline-flex shadow-lg items-center px-4 py-2 text-sm font-medium rounded-lg inline-block dark:bg-secondary-100 dark:hover:bg-neutral-700 hover:bg-gray-100 mx-2 dark:text-gray-300" style="">
-           <!-- text-transform: uppercase  -->
-            <img src="{{ .img }}" height="50px" width="50px" class="pr-4">
-            <small>{{ .label }}</small>
-          </button>
-        </a>
-      {{ end }}
-    </div>
+    <section class="" data-sal="fade">
+      <br>
+      <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12" >
+        <div class="p-4 rounded-lg bg-white dark:bg-neutral-800" style="opacity: 0.95;">        
+          <h1 class="text-4xl mb-4 font-extrabold tracking-tight leading-none">{{ .Params.title }}</h1>
+          <h2 class="text-lg tracking-tight leading-none ">{{ .Params.description }}</h2>
 
+          <div class="flex flex-wrap justify-center my-2">
+            
+            {{ range .Params.buttons }}
+              <a href="{{ .link }}">
+                <button type="button" class="inline-flex shadow-lg items-center px-4 py-2 text-sm font-medium rounded-lg inline-block dark:bg-yellow-700/30 dark:hover:bg-neutral-700 hover:bg-gray-100 mx-2 dark:text-gray-100 text-gray-900" style="">
+                 <!-- text-transform: uppercase  -->
+                  <img src="{{ .img }}" height="50px" width="50px" class="pr-4">
+                  <small>{{ .label }}</small>
+                </button>
+              </a>
+            {{ end }}
+          </div>
+        </div>
 
-      <div class="aspect-w-16 aspect-h-9 py-4 my-2" style="height: max-content !important;">
-        <iframe class="w-full" style="aspect-ratio: 16 / 9 !important;" frameborder="0" src="https://www.youtube.com/embed/{{ if .Params.youtube }}{{ .Params.youtube }}{{ else }}5fL2_ZcRgNQ{{ end }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="aspect-w-16 aspect-h-9 py-4 my-2" style="height: max-content !important;">
+          <iframe class="w-full" style="aspect-ratio: 16 / 9 !important;" frameborder="0" src="https://www.youtube.com/embed/{{ if .Params.youtube }}{{ .Params.youtube }}{{ else }}5fL2_ZcRgNQ{{ end }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
       </div>
-
+    </section>
   </div>
-</div>
 
+
+
+  {{ with .Params.req }}
+    {{ partial "req.html" . }}
+  {{ end }}
+
+  <!-- icons -->
+  {{ with .Params.features }}
+    {{ partial "features.html" . }}
+  {{ end }}
+
+  {{ with .Params.personas }}
+    {{ partial "personas.html" . }}
+  {{ end }}
+
+  {{ with .Params.countries }}
+    {{ partial "countries.html" . }}
+  {{ end }}
+
+
+  {{ with .Params.personas2 }}
+    {{ partial "personas.html" . }}
+  {{ end }}
+
+
+  {{ with .Params.how }}
+    {{ partial "how.html" . }}
+  {{ end }}  
+
+
+
+  {{ with .Params.duo }}
+    {{ partial "duo.html" . }}
+  {{ end }}
+
+  {{ with .Params.duo2 }}
+    {{ partial "duo2.html" . }}
+  {{ end }}
+
+  {{ with .Params.feedback }}
+    {{ partial "feedback.html" . }}
+  {{ end }}
+
+  {{ with .Params.feedback2 }}
+    {{ partial "feedback.html" . }}
+  {{ end }}
+
+  {{ with .Params.cta }}
+    {{ partial "cta.html" . }}
+  {{ end }}
 
 {{ end }}
-
-

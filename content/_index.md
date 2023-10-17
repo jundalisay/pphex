@@ -1,11 +1,8 @@
 ---
-title : "The Circular Economy That Solves Inflation"
-description: "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
-# wrong date
-date: 2020-10-06T08:47:36+00:00
-lastmod: 2022-07-27T08:47:36+00:00
-youtube: AfByl9Mywi4
 banner: "/photos/holdhands.jpg"
+description: "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
+title : "The Circular Economy That Solves Inflation"
+youtube: AfByl9Mywi4
 buttons:
   - label : "Register in the Waitlist"
     link : "https://hub.pantrypoints.com/signup"
@@ -133,15 +130,13 @@ feedback:
   items:
     - user : "Prof. Dhanjoo Ghista, University 2020 Foundation President"
       image: "/avatars/dhanjoo.jpg"
-      content: "I very much like this work:<br> A Research Proposal For The Formalization Of<br> The Science Of Supereconomics And<br> The Establishment Of A Point-Based Economic System"
+      content: "I very much like this work:<br> <i>A Research Proposal For The Formalization Of</i><br><i>The Science Of Supereconomics And</i><br><i>The Establishment Of A Points-Based Economic System</i>"
       link: "http://www.dhanjooghista.com"
     - user : "Prof. Gavin Kennedy, a world expert on Adam Smith"
       image: "/avatars/gavin.jpg"
       content: "I believe it is developing into a worthwhile project" 
       link: "http://adamsmithslostlegacy.blogspot.com"
       
-
-##################### Call to action #####################
 
 cta:
   title : "Register in the Waitlist"

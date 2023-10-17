@@ -1,18 +1,19 @@
 ---
-title : "Transitioning the world to a points-based economic system"
-#subtitle: We build the online presence
+title : "Services"
 description: "We offer the following services to our partners"
-date: 2020-10-06T08:47:36+00:00
-lastmod: 2023-03-27T08:47:36+00:00
 youtube: "lRZbEcKMqpc"
 banner: "/photos/team.jpg"
-logo: "/logos/services.png"
+buttons:
+  - label : "Register in the Waitlist"
+    link : "https://hub.pantrypoints.com/signup"
+    img: "/icons/pantry50.png"
+  - label : "Check out the science"
+    link : "https://superphysics.org/social/economics/"
+    img: "/icons/sp100.png"
 
 
-### COUNTRIES ###
 
-
-shots:
+personas:
   # bannerfeat: "https://res.cloudinary.com/nara/image/upload/v1567936990/photos/incacroplowres.jpg" 
   title : "Our Services"
   # subtitle: "Put your business online without the hassle"

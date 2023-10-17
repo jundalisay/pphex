@@ -1,20 +1,16 @@
 ---
-title: "Digitizing and Digitalizing the World. One Business at a Time"
+title: About Us
+sub: "Digitizing and Digitalizing the World. One Business at a Time"
 # subtitle: Pantry Peers is a small dedicated team that builds the Pantry system for Pantrynomics
-subtitle: Pantrypoints Technologies transforms micro and small businesses into digital-capable ones through websites, apps, machine learning, blockchain, and IoT
-# based on the princples of Pantrynomics
-# that builds the Pantry system for Pantrynomics
+# subtitle: Pantrypoints Technologies transforms micro and small businesses into digital-capable ones through websites, apps, machine learning, blockchain, and IoT
 logo: "/logos/pptech.png"
 image: "/photos/coop.jpg"
 description: "Pantrypoints Technologies is a small dedicated team specializing in transitioning the offline world into the online"
 youtube: "QCGf4irCsF0"
 applink: "/works"
 apptext: "Check out our projects"
-aliases:
-  /about
 
 
-# features:
 personas:
   image: "/photos/code.jpg" 
   title : "Future Focused"
