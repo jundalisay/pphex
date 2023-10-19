@@ -1,14 +1,14 @@
 ---
 title: "Pantrypreneur Educate Overview"
+linkTitle: Overview
 description: "Pantrypreneur Educate is a small-school administration system"
-# lead: "Pantry Circle is designed for food rescue and plastic waste recycling"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 images: []
 menu:
   docs:
     parent: "educate"
-weight: 130
+weight: 1
 toc: true
 ---
 

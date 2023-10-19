@@ -1,7 +1,7 @@
 ---
 title: "Pantrypoints City Overview"
+linkTitle: Overview
 description: "Pantrypoints City is the base platform for Health, Govern, Circle, Invest"
-# lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 images: []

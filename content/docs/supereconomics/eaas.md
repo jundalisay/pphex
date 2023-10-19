@@ -1,14 +1,13 @@
 ---
 title: "What is Economy-as-a-Service or EAAS?"
+linkTitle: EaaS
 subtitle: "A Rapidly-deployable Economic System"
 image: "https://sorasystem.sirv.com/photos/pawns.jpg"
 description: "An Economy as a Service is a rapidly-deployable cloud-based economic system"
 # tags: ['Points']
 date: 2020-06-25
-# aliases:
-#   /pantrynomics/economic-as-a-service
-#   /docs/pantrynomics/economic-as-a-service  
 ---
+
 
 
 The internet has allowed software to be accessed remotely leading to different kinds of services:
@@ -40,3 +39,4 @@ It's most similar to PaaS in the sense that you can build an economic service on
 Like Shopify, it can allow people to deploy their business online. But unlike Shopify, EaaS allows non-commercial transactions via points or barter. 
 
 Like Facebook, it can allow people to communicate with each other. But unlike Facebook, the interactions are hyperlocal, administered by a local person or organization who can weed out fake news. 
+

@@ -1,5 +1,6 @@
 ---
 title: "Pantrypreneur Doc"
+linkTitle: Doc
 description: "Pantrypreneur Doc"
 lead: "Pantrypreneur Doc is a platform for doctors and clinics"
 date: 2022-01-18T19:58:14+01:00

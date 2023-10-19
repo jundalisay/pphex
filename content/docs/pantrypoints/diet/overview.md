@@ -1,5 +1,6 @@
 ---
 title: "Diet-Disease Overview"
+linkTitle: Overview
 description: "Pantrypoints Diet-Disease Reference is a Food and Disease Reference app that suggests the healing food for common diseases. It aims to promote a Planetary Health Diet for the well-being of humans and the environment"
 # lead: "Pantrypoints Nation is a free trade system that will facilitate prepaid trade financing for long distance purchases"
 date: 2020-10-13T15:21:01+02:00

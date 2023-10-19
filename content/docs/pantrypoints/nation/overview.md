@@ -1,5 +1,6 @@
 ---
 title: "Pantrypoints Nation Overview"
+linkTitle: Overview
 description: "Pantrypoints Nation is a free trade system that will facilitate prepaid trade financing for long distance purchases"
 lead: "Pantrypoints Nation is a free trade system that will facilitate prepaid trade financing for long distance purchases"
 date: 2020-10-13T15:21:01+02:00

@@ -1,12 +1,11 @@
 ---
 title: "What are Learning Points?"
 subtitle: "A modular learning system"
+linkTitle: Learning Points
 date: 2021-08-18
 image: /photos/idea.jpg
 description: "Learning points allow modular learning to make education faster and more efficient. It works with ISAIAH Match"
 author: Juan
-# icon: /icons/ss.png
-# icontext: Supersociology icon
 draft: true
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Pantrypreneur Overview"
+linkTitle: Overview
 description: "Pantrypreneur Doc is a business platform for clinics"
 lead: "Pantrypreneur Doc is a business platform for clinics"
 date: 2020-10-13T15:21:01+02:00

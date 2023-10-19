@@ -1,19 +1,13 @@
 ---
 title: "Economic Development From Zero"
-subtitle: "How to Save a Country from a Destroyed State"
+linkTitle: Economic Development
+# subtitle: "How to Save a Country from a Destroyed State"
 date: 2015-08-21
 image: https://superphysics.org/photos/objects/regicide.jpg
-# image: "https://socioecons.files.wordpress.com/2015/08/chocolate-child-slavery-ivory-coast.jpg"
 description: "Adam Smith explained how to help societies rise from poverty to wealth through natural economic development"
 author: Juan
-draft: true
-# icon: https://superphysics.org/icons/pantry.png
-# icontext: Pantrypoints icon
-finaltitle: From Destroyed to Affluent
-final: The development of the rude state will then depend on the nature of the people, with some cultures being able to develop faster. Regardless of culture, Smith guarantees that by allowing profit-sharing or giving the people the proceeds of their own work, industry and development can be sped up. While profit sharing is the main expedient to speed up development,grain-based valuation  andpool clearing  are the main expedients to prevent the society from sliding backwards during economic crises.
-# aliases:
-#   /pantrynomics/economic-development
 ---
+
 
 > Update Apr 2021: This post was made in 2015 because the model predicted a huge crisis starting in 2019 that could eventually collapse some societies.
 
@@ -106,10 +100,15 @@ A rude society has more variety in individual occupations. but less variety when
 
 He calls an advanced society as civilized:
 
-<div class="squote smith" data-sal="slide-right">
+
+{{< q a="Smith" >}}
 In a civilized state, on the contrary, there is little variety in individual occupations. But there is an almost infinite variety in all the occupations taken together. A few people are not attached to a particular occupation. They have leisure and inclination to examine the occupations of other people. 
 
 These varied occupations lets them think of an almost infinite variety of objects. This thinking then exercises their minds in endless comparisons and combinations. It renders their understandings extraordinarily acute and comprehensive. Unless those few were placed in very particular situations, their great, honourable abilities may contribute very little for their society's happiness. All the nobler parts of the human character may be extinguished in the people.
-</div>
+{{< /q >}}
 
-</div>
+
+
+##  From Destroyed to Affluent
+
+The development of the rude state will then depend on the nature of the people, with some cultures being able to develop faster. Regardless of culture, Smith guarantees that by allowing profit-sharing or giving the people the proceeds of their own work, industry and development can be sped up. While profit sharing is the main expedient to speed up development,grain-based valuation  andpool clearing  are the main expedients to prevent the society from sliding backwards during economic crises.

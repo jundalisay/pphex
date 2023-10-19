@@ -1,5 +1,6 @@
 ---
 title: "Pantrypoints World Overview"
+linkTitle: Overview
 description: "Pantrypoints World is a free trade system that will facilitate prepaid trade financing for imports and exports"
 # lead: "Pantrypoints World is a free trade system that will facilitate prepaid trade financing for imports and exports"
 date: 2020-10-13T15:21:01+02:00

@@ -1,12 +1,10 @@
 ---
 title: "What are Loyalty Points?"
+linkTitle: Loyalty Points
 image: "/photos/dish.jpg"
 description: "Loyalty Points implement the moneyless version of real prices as the Second Law of Value"
 tags: ['Points']
 date: 2022-07-09
-# aliases:
-#   /pantrynomics/loyalty-points
-#   /docs/pantrynomics/loyalty-points
 ---
 
 
@@ -48,3 +46,4 @@ We even allow payment for the service in kind, through our [trade points system]
 
 
 > *The [Inca empire](https://gizmodo.com/the-greatest-mystery-of-the-inca-empire-was-its-strange-5872764) proved that an entire country can be sustained by a moneyless system
+

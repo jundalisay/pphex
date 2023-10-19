@@ -1,15 +1,14 @@
 ---
 title: "What are Investment Points?"
+linkTitle: Investment Points
 subtitle: "The effort value of goods and services claimable in the future"
 date: 2020-07-05
 image: "/photos/team.jpg"
 description : "Investment Points are the conversion of goods and services into their corresponding value in effort claimable in the future"
 author: Juan
 icon: https://superphysics.org/icons/pantry.png
-# aliases:
-#   /pantrynomics/investment-points
-#   /docs/pantrynomics/investment-points  
 ---
+
 
 
 Last week, we were invited to join the SIS Online Hackathon, wherein the organizers were looking for a tech solution for B2B cash management. The Covid pandemic has wreaked havoc on cash and many customers are unable to pay their suppliers.

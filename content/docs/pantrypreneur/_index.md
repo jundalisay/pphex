@@ -9,5 +9,5 @@ menu:
   docs:
     identifier: "pantrypreneur"
 toc: true
-weight: 2
+weight: 3
 ---

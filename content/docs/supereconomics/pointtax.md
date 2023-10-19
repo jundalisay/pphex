@@ -1,20 +1,14 @@
 ---
 title: "Pointtax as a Solution to Tax Evasion and Budget Deficits"
+linkTitle: Pointtax
 subtitle: "Based on Adam Smith's Taxation Maxims" 
 date: 2019-11-17
 image: "/og/tax.jpg"
 description : "All nations have endeavoured, to the best of their judgment, to render their taxes as equal, certain, convenient as possible. Historical taxes will show that these endeavours were not equally successful."
 author: Juan
 icon: /icons/pantry.png
-# aliases:
-#   /pantrynomics/pointtax
-#   /docs/pantrynomics/pointtax
 ---
 
-<!--   /solutions/taonomics/how-fairtax-can-solve-tax-evasion-budget-deficits/
-  /solutions/social/how-fairtax-can-solve-tax-evasion-and-budget-deficits
-  /solutions/taonomics/how-fairtax-can-solve-tax-evasion
-  /solutions/pantrynomics/fairtax -->
 
 > Update June 2020: In 2015, our model predicted a huge global crisis starting in 2019 to be felt many years afterwards. This is now known as the Covid-19 pandemic. Our model predicts inflation next, as a result of governments applying sophistical mercantile solutions, now known as "bailouts", on supply and demand problems. These bailouts will be paid for by either inflation (as college debt, rising bills, rent, etc) or by increased taxation, both will lead to unrest (as seen in the US riots) or a change in government. Here, we propose the proper solution to those future new governments for them to not make the mistakes of the current ones.
 

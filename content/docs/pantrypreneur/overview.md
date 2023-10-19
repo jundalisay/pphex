@@ -8,7 +8,7 @@ images: []
 menu:
   docs:
     parent: "pantrypreneur"
-weight: 130
+weight: 1
 toc: true
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Match Overview"
+linkTitle: Overview
 description: "Match is matchmaking system for Pantrypoints"
 lead: "Match is matchmaking system for Pantrypoints"
 date: 2022-01-18T19:58:14+01:00

@@ -1,11 +1,14 @@
 ---
 title: Pantrypoints Overview
+linkTitle: Overview
 description: This documents the development of the Pantrypoints system and its related parts
 image: "/graphics/doctor.png"
 tags: ['']
 date: 2022-04-22
 weight: 2
 ---
+
+
 
 Pantrypoints uses points to circulate value in and between societies.
 

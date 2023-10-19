@@ -1,5 +1,6 @@
 ---
 title: "Pantrypreneur Farm Overview"
+linkTitle: Overview
 description: "Pantrypreneur Farm is a farm administration app that implements Maximized Farming"
 # lead: "Pantry Circle is designed for food rescue and plastic waste recycling"
 date: 2020-10-13T15:21:01+02:00
@@ -8,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "farm"
-weight: 130
+weight: 1
 toc: true
 ---
 
@@ -19,6 +20,7 @@ Type | Description
 --- | ---
 Mobile  | This will send sound to a bluetooth speaker powered by a solar panel. This will be connected by wire to other solar-powered speakers to cover an entire farm. The mobile app lists each plot and the plant combinations in each of them. They yield of each plot is entered and compared with others to come up with the best plant combination and sound frequency or music.
 Web | This  will help implement Maximized Farming
+
 
 {{< youtube IEtb6uxtk38 >}}
 
