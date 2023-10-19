@@ -1,10 +1,8 @@
 ---
 description: "Pantrypoints implements trisactions in order to create an Economy-as-a-Service or EaaS platform to facilitate True Economic Democracy" 
 banner: "/photos/yay.jpg"
-title: Trisactions
-# title: True Economic Democracy
+title: True Economic Democracy
 youtube: 6b9R04CgS6w
-weight: 1
 buttons:
   - label : "Register in the Waitlist"
     link : "https://hub.pantrypoints.com/signup"

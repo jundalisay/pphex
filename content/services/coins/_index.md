@@ -1,4 +1,5 @@
 ---
+linkTitle: XCoins
 title: "Your Access to the Metaverse"
 description: "Point Coins connect Pantrypoints to the Metaverse and facilitates Pantrypoints World"
 youtube: "wKR3-nLxec8"

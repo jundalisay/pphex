@@ -1,9 +1,10 @@
 ---
-title: "Digitalize Your Business"
+title: "Pantrypreneur"
+# Digitalize Your Business
 banner: "/photos/bedcrop.jpg"
 description: "Pantrypreneur is a platform for micro and small businesses for digitalizing common business tasks"
 youtube: zIrblIJF4Nk
-
+weight: 2
 
 
 personas:

@@ -1,8 +1,6 @@
 ---
+linkTitle: Banking
 title: 银行无银行
-subtitle: Pantrypoints Banking 是一个低成本的无货币银行系统，为未被金融系统服务的人群提供服务 
-logo: "/logos/banking.png"
-image: "/og/banking.jpg"
 description: "Pantrypoints Banking 是一个低成本的无货币银行系统，为未被金融系统服务的人群提供服务"
 youtube: WbV48G5dFtc
 banner: /photos/money.jpg

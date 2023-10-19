@@ -56,10 +56,10 @@ languageName = "日本語"
 weight = 8
 title = "Pantrypoints: Points-based Economic System"
 
-[languages.kr]
-languageName = "Korean"
-weight = 9
-title = "Pantrypoints: Points-based Economic System"
+# [languages.kr]
+# languageName = "Korean"
+# weight = 9
+# title = "Pantrypoints: Points-based Economic System"
 
 [languages.es]
 languageName = "Spanish"
@@ -182,6 +182,11 @@ url = "/trisactions"
   weight = 30
   url = "/services/predict/"
 
+
+[[menu.main]]
+  name = "/icons/docs.png"
+  weight = 902
+  url = "//docs/intro/overview/"
 
 [[menu.main]]
 weight = 900

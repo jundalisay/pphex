@@ -1,10 +1,8 @@
 ---
 description: "Pantrypoints implements trisactions in order to create an Economy-as-a-Service or EaaS platform to facilitate True Economic Democracy" 
 banner: "/photos/yay.jpg"
-title: Trisactions
-# title: True Economic Democracy
+title: True Economic Democracy
 youtube: 6b9R04CgS6w
-weight: 1
 buttons:
   - label : "Register in the Waitlist"
     link : "https://hub.pantrypoints.com/signup"
@@ -53,23 +51,6 @@ personas:
       icon: /icons/tax.png
       content : "These are points given by businesses<br> to their customers to incentivize<br> repeat purchases. This is used<br> to 'train' people in the use of points"
 
-
-# segment:
-#   articles:
-#     - title : "Facilitates Economy as a Service (EaaS)"
-#       image: "/graphics/eaas.png"
-#       content : "Pantrypoints and Pantrypreneur make up our Economy as a Service system that allows it to integrate with the current money-system. <p>Pantrypoints allows points-transaction between independent users.</p><p>Pantrypreneur digitizes common business operations to increase efficiency and funnel productivity towards the Pantrypoints system</p>"
-
-#   image: "/photos/holdhands.jpg"
-#   items:
-#     - image: "/graphics/eaas.png"
-#       text: " Community Pantrypoints and Business Pantrypoints implement Trisactions primarily through Pantrypoints City"
-#       linktext: "What is Pantrypoints City?"
-#       link: "/trisactions/city"
-    # - image: "/graphics/pantrypreneur.jpg"
-    #   text: " Pantrypreneur is a platform for micro and small businesses that connects to each other via Pantrypoints City"
-    #   linktext: "What is Pantrypreneur?"
-    #   link: "/pantrypreneur"
 
 
 personas2:

@@ -3,6 +3,7 @@ title : "Services"
 description: "We offer the following services to our partners"
 youtube: "lRZbEcKMqpc"
 banner: "/photos/team.jpg"
+weight: 4
 buttons:
   - label : "Register in the Waitlist"
     link : "https://hub.pantrypoints.com/signup"
