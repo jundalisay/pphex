@@ -1,20 +1,19 @@
 ---
-description: "Pantrypoints implements trisactions in order to create an Economy-as-a-Service or EaaS platform to facilitate True Economic Democracy" 
+description: パントリーポイントは、経済サービスプラットフォームまたはEaaSプラットフォームで「真の経済民主主義」を実現するためにトランザクションを実行します。
 banner: "/photos/yay.jpg"
-title: True Economic Democracy
+title: 真の経済民主主義。
 youtube: 6b9R04CgS6w
 buttons:
-  - label : "Register in the Waitlist"
+  - label : ウェイトリストに登録してください。
     link : "https://hub.pantrypoints.com/signup"
     img: "/icons/pantry50.png"
-  - label : "Check out the science"
+  - label : 詳細を読む。
     link : "https://superphysics.org/social/economics/"
     img: "/icons/sp100.png"
 
 
-
 req:
-  title: Based on the requirements in Book 5, Chapter 2 of the Republic
+  title: これはプラトンの『国家』の第5巻第2章の要件に基づいています。
   link: "https://superphysics.org/research/socrates/simple-republic/book-5/chapter-2"
   btext: "Read the requirements"
   avatar: "/avatars/socrates.png"
@@ -23,59 +22,61 @@ req:
 
 personas:
   image: "/photos/dish.jpg"
-  title : "The Points Economy"
-  subtitle: "Unlike fiat money which is an arbitrary store of value, points are pegged to rice or grains. This allows easier points-taxation, points-accounting and analytics, while eliminating the need for currency exchange."
+  title : ポイント経済
+  subtitle: パントリーポイントはお金の代わりに、穀物の小売価格にペッグされたポイントを使用します。これにより、ポイントの課税、ポイントの会計および分析が容易になり、取引にお金が必要なくなります。
   items:
-    - name : Loyalty Points
+    - name : ロイヤリティポイント
       icon: /icons/loy.png
-      content : "These are points given by businesses<br> to their customers to incentivize repeat purchases.<br> This is used to 'train' people<br> in the use of points"
-    - name : Donation Points
+      content : これらは企業が顧客に繰り返しの購入を促すために与えるポイントです。これはポイントの使用法を「訓練」するために使用されます。
+    - name : 寄付ポイント
       icon: /icons/donate.png
-      content : "These are points used for donations<br> and relief. We use this primarily to incentivize<br> [food rescue](https://circle.pantrypoints.com) and plastic waste collection<br> to realize a moneyless circular economy"
-    - name : Exchange Points
+      content : これらは寄付や災害救助に使用されるポイントです。これは主に「食品救助」やプラスチック廃棄物の収集を奨励するために使用され、お金のいらない循環型経済を実現します。
+    - name : 交換ポイント
       icon: /icons/swap.png
-      content : "These are points for barter transactions.<br> Unlike social points which do not <br>seek something in return, trade points do.<br> This is the foundation of Points-banking"
-    - name : Investment Points  
+      content : これらはバーター取引用のポイントです。何も返さない寄付ポイントとは異なり、取引ポイントは返させます。これがポイントバンキングの基盤です。
+    - name : 投資ポイント
       icon: /icons/invest.png
-      content : "These are trade points designed<br> to spur investments when money is lacking.<br> This requires the other point-types<br> to be working beforehand."
-    - name : Insurance Points
+      content : これらはお金が不足している場合に投資を呼び込むために設計された交換ポイントです。これには他のポイントタイプが先に動作する必要があります。
+    - name : 保険ポイント
       icon: /icons/insure.png
-      content : "These are trade points for long term claim,<br> upon old age. We implement this as<br> social insurance in case money-based insurance<br> becomes oppressive"
-    - name : Energy Points
+      content : これらは老後に長期の請求に使用される交換ポイントです。これはお金に基づく保険が圧迫的になる場合の社会保険として実施されています。
+    - name : エネルギーポイント
       icon: /icons/energy.png
-      content : "These are trade points for electricity,<br> usually from biomass sources.<br> This incentivizes waste segregation<br> and is part of the circular economy"
-    - name : Money Points
+      content : これらはバイオマス源からの電力用の交換ポイントです。これは廃棄物の分別を促進し、循環型経済の一部です。
+    - name : マネーポイント
       icon: /icons/money.png
-      content : "These are trade points paid in money<br> to reduce existing trade points balance"
-    - name : Tax Points
+      content : これらは取引ポイント残高を減らすためにお金で支払われる交換ポイントです。
+    - name : クロスポイント
+      icon: /icons/ship.png
+      content : これらは国境を越えた取引に使用される交換ポイントです。これらは取引の不均衡を防ぐために「重み付け」されています。
+    - name : 現在の実装
       icon: /icons/tax.png
-      content : "These are points given by businesses<br> to their customers to incentivize<br> repeat purchases. This is used<br> to 'train' people in the use of points"
-
-
+      content : パントリーポイントシステムは現在、以下によってテストされています
+    - name : 税ポイント
+      icon: /icons/tax.png
+      content : これらはユーザーから政府に与えられる交換ポイントです。
 
 personas2:
-  title : "Current Implementations"
-  subtitle: "The Pantrypoints system is currently being tested by the following"
+  title : 現在の実装。
+  subtitle: パントリーポイントシステムは現在、以下によってテストされています
   items:
     - name : SCENAC
       icon : /icons/scenac.png
-      content : "SCENAC is testing Point Cards as a<br> moneyless social insurance system"
-    - name : Angel's Shelter 
+      content : SCENACは、無貨物の社会保険システムとしてポイントカードをテストしています
+    - name : エンジェルズシェルター
       icon : /icons/angels.png
-      content : "Angel's Shelter is an animal shelter<br> that uses Pantrypoints Build to get<br> moneyless donations"
-    - name : Savilas Vietnam
+      content : エンジェルズシェルターは無貨物の寄付を得るためにパントリーポイントビルドを使用する動物保護施設です
+    - name : サビラスベトナム
       icon : /icons/savilas.png
-      content : "Savilas is a new seafood buyer<br> that will test exports via Pantrypoints World"
-    - name : Food Rescue Philippines
+      content : サビラスベトナムはパントリーポイントワールドを介して輸出をテストする新しいシーフードバイヤーです
+    - name : フードレスキューフィリピン
       icon : /icons/foodrescueph.png
-      content : "Food Rescue Philippines is a volunteer group<br> that will test Pantrypoints Circle for<br> incentivizing food donations"
-      # link: pantrylitics
-      footer: "<span class='has-text-dark'>Mandaluyong</span>"
+      content : フードレスキューフィリピンは食品の寄付を促進するためにパントリーポイントサークルをテストするボランティアグループです
 
 
 
 cta:
-  title : "Do you want to do Trisactions?"
+  title : ポイントを試してみたいですか？
   buttons:
     - text: "Sure!"
       color: bg-blue-100

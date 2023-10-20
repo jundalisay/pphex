@@ -1,3 +1,44 @@
+Translate to Arabic, Chinese Simplified, Spanish, French, Japanese:
+True Economic Democracy. Pantrypoints implements trisactions in order to create an Economy-as-a-Service or EaaS platform to create "True Economic Democracy".
+Register in the Waitlist. Read about the details. 
+This is based on the requirements in Book 5, Chapter 2 of Plato's Republic.
+'The Points Economy'. Instead of money, Pantrypoints uses points which are pegged to the retail price of grains. This will allow easier points-taxation, points-accounting and analytics, while eliminating the need for money for transactions.
+Loyalty Points. These are points given by businesses to their customers to incentivize repeat purchases. This is used to ’train’ people in the use of points.
+Donation Points. These are points used for donations and disaster relief. We use this primarily to incentivize 'food rescue' and plastic waste collection in order to realize a moneyless circular economy.
+Exchange Points. These are points for barter transactions. Unlike donations points which do not seek something in return, trade points do. This is the foundation of Points-banking.
+Investment Points. These are exchange points designed to attract investments when money is lacking. This requires the other point-types to be working beforehand.
+Insurance Points. These are exchange points for long-term claim, upon old age. We implement this as social insurance in case money-based insurance becomes oppressive.
+Energy Points. These are exchange points for electricity, usually from biomass sources. This incentivizes waste segregation and is part of the circular economy.
+Money Points. These are exchange points paid in money to reduce existing trade-points balances.
+Cross Points. These are exchange points used for cross-border transactions. These are 'weighted' to prevent imbalances in trade. 
+Tax Points. These are exchange points given by users to the government.
+Current Implementations. The Pantrypoints system is currently being tested by the following
+SCENAC is testing Point Cards as a moneyless social insurance system
+Angel’s Shelter is an animal shelter that uses Pantrypoints Build to get moneyless donations
+Savilas Vietnam is a new seafood buyer that will test exports via Pantrypoints World
+Food Rescue Philippines is a volunteer group that will test Pantrypoints Circle for incentivizing food donations
+Do you want to Try Points?
+
+
+Translate to Arabic, Chinese Simplified, Spanish, French, Japanese:
+Bank the Unbanked. Pantrypoints Banking is a low-cost moneyless banking system that circulates the economy that is unserved by the financial system
+Based on the requirements in 'The Wealth of Nations' by Adam Smith
+Inspired by the Moneyless, Paperless system of the Inca
+Points-banking allows the regulated transfer of points between users
+Moneyless Ok! Points Banking allows economies to function even after a total financial collapse
+Decentralized. A crisis in one place will not affect others.
+Flexible. Points Banking can work offline and does not use blockchain
+Asynchronous. Users do not need to fulfill their part of the transaction immediately
+Cost Effective. Points Banking can be deployed on the cloud to reduce costs
+Integrates with Taxation. Points Banking will integrate with Pointtax to allow tax payments in kind
+1 Gain points with other users
+2 Transfer your points to other users to gain access to their goods and services
+3 Use your points as usual
+Top 5 in the Fintech Edition as Debt Clearing System
+2nd Place as Social ROSCA
+
+
+
 {{- with $.Params.images -}}
 {{- range first 6 . }}<meta property="og:image" content="{{ . | absURL }}" />{{ end -}}
 {{- else -}}

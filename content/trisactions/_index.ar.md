@@ -1,20 +1,19 @@
 ---
-description: "Pantrypoints implements trisactions in order to create an Economy-as-a-Service or EaaS platform to facilitate True Economic Democracy" 
+description: ينفذ بانتري بوينتس المعاملات من أجل إنشاء منصة 'الاقتصاد كخدمة'' أو EaaS لإنشاء 'الديمقراطية الاقتصادية الحقيقية'
 banner: "/photos/yay.jpg"
-title: True Economic Democracy
+title: الديمقراطية الاقتصادية الحقيقية
 youtube: 6b9R04CgS6w
 buttons:
-  - label : "Register in the Waitlist"
+  - label : التسجيل في قائمة الانتظار. 
     link : "https://hub.pantrypoints.com/signup"
     img: "/icons/pantry50.png"
-  - label : "Check out the science"
+  - label : اقرأ عن التفاصيل.
     link : "https://superphysics.org/social/economics/"
     img: "/icons/sp100.png"
-
-
+    
 
 req:
-  title: Based on the requirements in Book 5, Chapter 2 of the Republic
+  title: يستند ذلك إلى المتطلبات المذكورة في الكتاب 5، الفصل 2 من جمهورية أفلاطون.
   link: "https://superphysics.org/research/socrates/simple-republic/book-5/chapter-2"
   btext: "Read the requirements"
   avatar: "/avatars/socrates.png"
@@ -23,33 +22,36 @@ req:
 
 personas:
   image: "/photos/dish.jpg"
-  title : "The Points Economy"
-  subtitle: "Unlike fiat money which is an arbitrary store of value, points are pegged to rice or grains. This allows easier points-taxation, points-accounting and analytics, while eliminating the need for currency exchange."
+  title : اقتصاد النقاط. 
+  subtitle: بدلاً من النقود، يستخدم بانتري بوينتس نقاطًا مرتبطة بسعر الجملة للحبوب. وهذا سيسمح بفرض الضرائب على النقاط بشكل أسهل والمحاسبة والتحليل على النقاط، مع القضاء على الحاجة إلى النقود للمعاملات.
   items:
-    - name : Loyalty Points
+    - name : نقاط الولاء. 
       icon: /icons/loy.png
-      content : "These are points given by businesses<br> to their customers to incentivize repeat purchases.<br> This is used to 'train' people<br> in the use of points"
-    - name : Donation Points
-      icon: /icons/donate.png
-      content : "These are points used for donations<br> and relief. We use this primarily to incentivize<br> [food rescue](https://circle.pantrypoints.com) and plastic waste collection<br> to realize a moneyless circular economy"
-    - name : Exchange Points
+      content : هذه هي النقاط التي تمنحها<br> الشركات لزبائنها لتحفيز الشراء المتكرر.<br> يُستخدم ذلك لـ "تدريب"<br> الأشخاص على استخدام النقاط.
+    - name : نقاط التبرع. 
       icon: /icons/swap.png
-      content : "These are points for barter transactions.<br> Unlike social points which do not <br>seek something in return, trade points do.<br> This is the foundation of Points-banking"
-    - name : Investment Points  
+      content : هذه نقاط تُستخدم للتبرع ومساعدة<br> الكوارث. نحن نستخدمها أساساً<br> لتحفيز "إنقاذ الطعام"<br> وجمع نفايات البلاستيك من<br> أجل تحقيق اقتصاد دائري بدون نقود.
+    - name : نقاط المال.
       icon: /icons/invest.png
-      content : "These are trade points designed<br> to spur investments when money is lacking.<br> This requires the other point-types<br> to be working beforehand."
-    - name : Insurance Points
+      content : هذه نقاط التبادل يتم دفعها<br> بالمال لتقليل الأرصدة الحالية<br> لنقاط التبادل.
+    - name : نقاط التبادل. 
       icon: /icons/insure.png
-      content : "These are trade points for long term claim,<br> upon old age. We implement this as<br> social insurance in case money-based insurance<br> becomes oppressive"
-    - name : Energy Points
+      content : هذه هي نقاط للصفقات التبادلية.<br> على عكس نقاط التبرع التي لا<br> تسعى إلى الحصول على شيء مقابلها،<br> تفعل نقاط التبادل ذلك.<br> وهذا هو أساس البنوك النقاط.
+    - name : نقاط الاستثمار. 
       icon: /icons/energy.png
-      content : "These are trade points for electricity,<br> usually from biomass sources.<br> This incentivizes waste segregation<br> and is part of the circular economy"
-    - name : Money Points
+      content : هذه نقاط التبادل مصممة<br> لجذب الاستثمارات عند نقص المال.<br> وهذا يتطلب أن تعمل أنواع<br> النقاط الأخرى أولاً.
+    - name : نقاط التأمين. 
+      icon: /icons/donate.png
+      content : هذه نقاط التبادل لمطالبات<br> طويلة الأجل، عند الشيخوخة.<br> نحن نقوم بهذا كتأمين اجتماعي في حالة<br> أن تصبح التأمينات القائمة على المال مكلفة<br> بشكل مضايق.
+    - name : نقاط الطاقة. 
       icon: /icons/money.png
-      content : "These are trade points paid in money<br> to reduce existing trade points balance"
-    - name : Tax Points
+      content : هذه نقاط التبادل للكهرباء،<br> عادة من مصادر الكتلة الحيوية.<br> وهذا يشجع على فصل النفايات وهو جزء<br> من الاقتصاد الدائري.
+    - name : نقاط العبور. 
+      icon: /icons/ship.png
+      content : هذه نقاط التبادل تُستخدم<br> للصفقات عبر الحدود.<br> وهذه معترَف بها بوزن لمنع<br> عدم التوازن في التجارة.
+    - name : نقاط الضريبة. 
       icon: /icons/tax.png
-      content : "These are points given by businesses<br> to their customers to incentivize<br> repeat purchases. This is used<br> to 'train' people in the use of points"
+      content : هذه نقاط التبادل التي تمنحها<br> المستخدمين للحكومة.
 
 
 # segment:
@@ -71,28 +73,32 @@ personas:
 
 
 personas2:
-  title : "Current Implementations"
-  subtitle: "The Pantrypoints system is currently being tested by the following"
+  title : "التنفيذ الحالي"
+  subtitle: "نظام بانتري بوينتس يتم حالياً اختباره من قبل الأشخاص التالية"
   items:
     - name : SCENAC
       icon : /icons/scenac.png
-      content : "SCENAC is testing Point Cards as a<br> moneyless social insurance system"
+      content : "SCENAC يختبر بطاقات النقاط<br> كنظام تأمين اجتماعي بدون نقود"
     - name : Angel's Shelter 
       icon : /icons/angels.png
-      content : "Angel's Shelter is an animal shelter<br> that uses Pantrypoints Build to get<br> moneyless donations"
+      content : مأوى الملائكة هو مأوى<br> للحيوانات يستخدم بانتري بوينتس بيلد<br> للحصول على تبرعات بدون نقود
     - name : Savilas Vietnam
       icon : /icons/savilas.png
-      content : "Savilas is a new seafood buyer<br> that will test exports via Pantrypoints World"
+      content : سافيلس فيتنام هو مشتري<br> جديد للمأكولات البحرية سيختبر<br> التصدير عبر بانتري بوينتس وورلد
     - name : Food Rescue Philippines
       icon : /icons/foodrescueph.png
-      content : "Food Rescue Philippines is a volunteer group<br> that will test Pantrypoints Circle for<br> incentivizing food donations"
-      # link: pantrylitics
+      content : إنقاذ الطعام في الفلبين<br> هو مجموعة تطوعية ستختبر بانتري<br> بوينتس سيركل لتحفيز التبرعات الغذائية
       footer: "<span class='has-text-dark'>Mandaluyong</span>"
 
 
 
+
+
+
+
+
 cta:
-  title : "Do you want to do Trisactions?"
+  title : "هل تريد تجربة النقاط؟"
   buttons:
     - text: "Sure!"
       color: bg-blue-100

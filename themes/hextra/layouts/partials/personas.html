@@ -22,7 +22,7 @@
           <img class="mx-auto d-block" src="{{ .icon | markdownify }}" height="70px" width="70px" />
           <h3 class="text-xl my-2 font-extrabold tracking-tight leading-none">{{ .name | markdownify }}</h3>
 
-          <small>{{ .content | markdownify }}</small>
+          <small class="break-words" style="word-break: break-all;">{{ .content | markdownify }}</small>
 
 
           {{ with .link }}

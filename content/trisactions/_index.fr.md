@@ -1,81 +1,79 @@
 ---
-description: "Pantrypoints implements trisactions in order to create an Economy-as-a-Service or EaaS platform to facilitate True Economic Democracy" 
+description: Pantrypoints met en œuvre des transactions afin de créer une plateforme Économie en tant que Service ou EaaS pour créer une Vraie démocratie économique
 banner: "/photos/yay.jpg"
-title: True Economic Democracy
+title: Vraie démocratie économique
 youtube: 6b9R04CgS6w
 buttons:
-  - label : "Register in the Waitlist"
+  - label : Inscrivez-vous sur la liste d'attente
     link : "https://hub.pantrypoints.com/signup"
     img: "/icons/pantry50.png"
-  - label : "Check out the science"
+  - label : Lisez les détails
     link : "https://superphysics.org/social/economics/"
     img: "/icons/sp100.png"
 
 
-
 req:
-  title: Based on the requirements in Book 5, Chapter 2 of the Republic
+  title: Cela est basé sur les exigences du Livre 5, Chapitre 2 de La République de Platon
   link: "https://superphysics.org/research/socrates/simple-republic/book-5/chapter-2"
-  btext: "Read the requirements"
   avatar: "/avatars/socrates.png"
-
 
 
 personas:
   image: "/photos/dish.jpg"
-  title : "The Points Economy"
-  subtitle: "Unlike fiat money which is an arbitrary store of value, points are pegged to rice or grains. This allows easier points-taxation, points-accounting and analytics, while eliminating the need for currency exchange."
+  title : L'économie des points
+  subtitle: Au lieu d'argent, Pantrypoints utilise des points qui sont ancrés au prix de détail des céréales. Cela permettra une taxation des points plus facile, une comptabilité et des analyses des points, tout en éliminant le besoin d'argent pour les transactions.
   items:
-    - name : Loyalty Points
+    - name : Points de fidélité
       icon: /icons/loy.png
-      content : "These are points given by businesses<br> to their customers to incentivize repeat purchases.<br> This is used to 'train' people<br> in the use of points"
-    - name : Donation Points
+      content : Ceux-ci sont des points donnés<br> par les entreprises à leurs clients pour<br> les inciter à effectuer des achats répétés.<br> Cela sert à former les gens à l'utilisation<br> des points.
+    - name : Points de don
       icon: /icons/donate.png
-      content : "These are points used for donations<br> and relief. We use this primarily to incentivize<br> [food rescue](https://circle.pantrypoints.com) and plastic waste collection<br> to realize a moneyless circular economy"
-    - name : Exchange Points
+      content : Ceux-ci sont des points utilisés pour<br> les dons et l'aide en cas de catastrophe.<br> Nous utilisons cela principalement pour inciter<br> à la "récupération alimentaire" et à la<br> collecte de déchets plastiques afin de réaliser<br> une économie circulaire sans argent.
+    - name : Points d'échange
       icon: /icons/swap.png
-      content : "These are points for barter transactions.<br> Unlike social points which do not <br>seek something in return, trade points do.<br> This is the foundation of Points-banking"
-    - name : Investment Points  
+      content : Ceux-ci sont des points pour les<br> transactions de troc. Contrairement aux points<br> de don qui ne cherchent rien en retour,<br> les points d'échange le font.<br> C'est la base de la banque de points.
+    - name : Points d'investissement
       icon: /icons/invest.png
-      content : "These are trade points designed<br> to spur investments when money is lacking.<br> This requires the other point-types<br> to be working beforehand."
-    - name : Insurance Points
+      content : Ceux-ci sont des points d'échange conçus<br> pour attirer des investissements en cas de<br> manque d'argent. Cela nécessite que les autres types<br> de points fonctionnent au préalable.
+    - name : Points d'assurance
       icon: /icons/insure.png
-      content : "These are trade points for long term claim,<br> upon old age. We implement this as<br> social insurance in case money-based insurance<br> becomes oppressive"
-    - name : Energy Points
+      content : Ceux-ci sont des points d'échange pour<br> une réclamation à long terme, à un âge avancé.<br> Nous mettons en œuvre ceci comme une assurance sociale<br> au cas où l'assurance basée sur l'argent<br> deviendrait oppressante
+    - name : Points d'énergie
       icon: /icons/energy.png
-      content : "These are trade points for electricity,<br> usually from biomass sources.<br> This incentivizes waste segregation<br> and is part of the circular economy"
-    - name : Money Points
+      content : Ceux-ci sont des points d'échange pour l'électricité,<br> généralement provenant de sources de biomasse.<br> Cela encourage la ségrégation des déchets et fait partie<br> de l'économie circulaire.
+    - name : Points d'argent
       icon: /icons/money.png
-      content : "These are trade points paid in money<br> to reduce existing trade points balance"
-    - name : Tax Points
+      content : Ceux-ci sont des points d'échange payés<br> en argent pour réduire les soldes<br> de points d'échange existants.
+    - name : Points croisés
+      icon: /icons/ship.png
+      content : Ceux-ci sont des points d'échange utilisés<br> pour les transactions transfrontalières. Ceux-ci sont 'pondérés'<br> pour éviter les déséquilibres commerciaux.
+    - name : Points fiscaux
       icon: /icons/tax.png
-      content : "These are points given by businesses<br> to their customers to incentivize<br> repeat purchases. This is used<br> to 'train' people in the use of points"
+      content : Ceux-ci sont des points d'échange donnés<br> par les utilisateurs au gouvernement.
 
 
 
 personas2:
-  title : "Current Implementations"
-  subtitle: "The Pantrypoints system is currently being tested by the following"
+  title : Implémentations actuelles
+  subtitle: Le système Pantrypoints est actuellement testé par les entités suivantes
   items:
     - name : SCENAC
       icon : /icons/scenac.png
-      content : "SCENAC is testing Point Cards as a<br> moneyless social insurance system"
+      content : SCENAC teste les cartes de points<br> comme un système d'assurance sociale sans argent
     - name : Angel's Shelter 
       icon : /icons/angels.png
-      content : "Angel's Shelter is an animal shelter<br> that uses Pantrypoints Build to get<br> moneyless donations"
+      content : Angel's Shelter est un refuge pour animaux<br> qui utilise Pantrypoints Build pour obtenir<br> des dons sans argent
     - name : Savilas Vietnam
       icon : /icons/savilas.png
-      content : "Savilas is a new seafood buyer<br> that will test exports via Pantrypoints World"
+      content : Savilas Vietnam est un nouvel acheteur<br> de fruits de mer qui testera les exportations<br> via Pantrypoints World
     - name : Food Rescue Philippines
       icon : /icons/foodrescueph.png
-      content : "Food Rescue Philippines is a volunteer group<br> that will test Pantrypoints Circle for<br> incentivizing food donations"
-      # link: pantrylitics
-      footer: "<span class='has-text-dark'>Mandaluyong</span>"
+      content : Food Rescue Philippines est un groupe<br> de bénévoles qui testera Pantrypoints Circle pour<br> inciter les dons alimentaires
 
 
 
 cta:
-  title : "Do you want to do Trisactions?"
+  title : Voulez-vous essayer les points?
   buttons:
     - text: "Sure!"
       color: bg-blue-100
