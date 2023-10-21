@@ -13,6 +13,15 @@ buttons:
     img: "/icons/sp100.png"
 
 
+
+req:
+  title: 基于《国富论》的要求
+  link: "https://superphysics.org/research/smith/wealth-of-nations/book-2/chapter-3c"
+  btext: "Read the requirements"
+  avatar: "/avatars/smith.png"
+
+
+
 personas:
   image: "/photos/inca.jpg" 
   title: "受印加帝国无货币、无纸化系统的启发"
@@ -44,7 +53,6 @@ personas:
 how:
   title : "How it Works"  
   steps:
-    # - image: "https://sorasystem.sirv.com/photos/pantry.jpg"
     - id: 1
       content: "与无货币经济中的其他用户和公司获得积分"
       image: "/screens/po3.jpg"
@@ -57,19 +65,10 @@ how:
 
 
 
-
-req:
-  title: 基于《国富论》的要求
-  link: "https://superphysics.org/research/smith/wealth-of-nations/book-2/chapter-3c"
-  btext: "Read the requirements"
-  avatar: "/avatars/smith.png"
-
-
-
 feedback:
   title: 受賞歴
   items:
-    - user : 2017年カンボジアのスタートアップウィークエンド
+    - user : Startup Weekend Cambodia 2017
       image: https://sorasystem.sirv.com/logos/startupweekend.png
       content: 在柬埔寨创业周末2017年的金融科技赛中获得前5名，成为债务清算系统
       link: http://communities.techstars.com
@@ -84,10 +83,10 @@ feedback:
 cta:
   title : "在等待名单中注册"
   buttons:
-    - text: "Sure!"
+    - text: "是的！"
       color: bg-blue-100
       link: "https://hub.pantrypoints.com/signup"
-    - text: "I need to know more"
+    - text: "暂时不要"
       color: bg-red-100    
       link : "https://superphysics.org/social/economics/solutions/points-banking"
 

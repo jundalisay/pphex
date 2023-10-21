@@ -40,7 +40,7 @@ personas:
 
 
 how:
-  title : "How it Works"
+  title: "How it Works"
   steps:
     - image: "/screens/health/dd1.jpg"
       id: 1
@@ -69,11 +69,11 @@ feedback:
   title: "Feedback"
   items:
     - user : "remotehour.co"
-      image: "/avatars/blankavatar.png"
+      image: "/icons/remotehourco.png"
       content: "Oh your progress is excellent!<br> Nice work :) With Covid-19,<br> we came to be careful about<br> our health. So your product<br> will be demanded"
       link: "http://remotehour.co"
     - user : "iflux.app"
-      image: "/avatars/blankavatar.png"
+      image: "/icons/ifluxapp.jpg"
       content: "A very awesome platform.<br> I cannot wait for the app<br> to be released" 
       link: "https://iflux.app"
     - user : "finzen.app"

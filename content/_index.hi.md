@@ -40,7 +40,7 @@ personas:
 
 
 how:
-  title : "कैसे काम करता है"  
+  title : "कैसे काम करता है"
   steps:
     - content: "अपनी वस्तु को पैंट्रीपॉइंट्स मूल्य के बजाय पॉइंट्स मूल्य में पोस्ट करें"
       image: "/screens/pantryshow.jpg"

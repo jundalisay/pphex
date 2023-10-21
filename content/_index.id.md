@@ -100,13 +100,15 @@ feedback:
       link: "http://adamsmithslostlegacy.blogspot.com"
 
 
-##################### Call to action #####################
 
 cta:
   title : "Daftar dalam Daftar Tunggu"
-  link1text: "Ya!"
-  link1 : "https://hub.pantrypoints.com/signup"
-  link2text: "Tidak sekarang"
-  link2 : "https://superphysics.org/social/economics/fallacies/equilibrium-fallacy"
+  buttons:
+    - text: "نعم!"
+      color: bg-blue-100
+      link: "https://hub.pantrypoints.com/signup"
+    - text: "ليس الآن."
+      color: bg-red-100    
+      link : "https://superphysics.org/social/economics/fallacies/equilibrium-fallacy"
 
 ---

@@ -39,16 +39,16 @@ personas:
       content : "These are points for barter transactions.<br> Unlike social points which do not <br>seek something in return, trade points do.<br> This is the foundation of Points-banking"
     - name : Investment Points  
       icon: /icons/invest.png
-      content : "These are trade points designed<br> to spur investments when money is lacking.<br> This requires the other point-types<br> to be working beforehand."
+      content : "These are exchange points designed<br> to spur investments when money is lacking.<br> This requires the other point-types<br> to be working beforehand."
     - name : Insurance Points
       icon: /icons/insure.png
-      content : "These are trade points for long term claim,<br> upon old age. We implement this as<br> social insurance in case money-based insurance<br> becomes oppressive"
+      content : "These are exchange points for long term claim,<br> upon old age. We implement this as<br> social insurance in case money-based insurance<br> becomes oppressive"
     - name : Energy Points
       icon: /icons/energy.png
-      content : "These are trade points for electricity,<br> usually from biomass sources.<br> This incentivizes waste segregation<br> and is part of the circular economy"
+      content : "These are exchange points for electricity,<br> usually from biomass sources.<br> This incentivizes waste segregation<br> and is part of the circular economy"
     - name : Money Points
       icon: /icons/money.png
-      content : "These are trade points paid in money<br> to reduce existing trade points balance"
+      content : "These are exchange points paid in money<br> to reduce existing trade points balance"
     - name : Tax Points
       icon: /icons/tax.png
       content : "These are points given by businesses<br> to their customers to incentivize<br> repeat purchases. This is used<br> to 'train' people in the use of points"

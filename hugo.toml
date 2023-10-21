@@ -66,10 +66,10 @@ languageName = "Spanish"
 weight = 10
 title = "Pantrypoints"
 
-[languages.tl]
-languageName = "Tagalog"
-weight = 11
-title = "Pantrypoints"
+# [languages.tl]
+# languageName = "Tagalog"
+# weight = 11
+# title = "Pantrypoints"
 
 
 

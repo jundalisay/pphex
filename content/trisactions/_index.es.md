@@ -4,10 +4,10 @@ banner: "/photos/yay.jpg"
 title: Verdadera democracia económica
 youtube: 6b9R04CgS6w
 buttons:
-  - label : Regístrate en la lista de espera. 
+  - label : Regístrate en la lista de espera
     link : "https://hub.pantrypoints.com/signup"
     img: "/icons/pantry50.png"
-  - label : Lee sobre los detalles.
+  - label : Lee sobre los detalles
     link : "https://superphysics.org/social/economics/"
     img: "/icons/sp100.png"
 

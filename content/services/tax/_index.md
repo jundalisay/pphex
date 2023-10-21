@@ -43,7 +43,7 @@ how:
   steps:
     - image: "/screens/po2.jpg"
       id: 1
-      content: "Avail of goods and services listed in Pantry"  
+      content: "Avail of goods and services listed in Pantrypoints"
     # - image: "/screens/po1.jpg"
     #   id: 2
     #   content: "Upon payment, tell the seller your Pantry ID"  

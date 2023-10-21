@@ -4,7 +4,7 @@ banner: "/photos/holdhands.jpg"
 description: 二国間のポイントを使用してインフレーションを止め、完全雇用を実現し、循環型経済を実現する強靭な新しい経済システムです
 youtube: "c4uXwQqnAD4"
 buttons:
-  - label : "待ちリストに登録してください。"
+  - label : ウェイトリストに登録してください。
     color: "primary"
     link : "https://hub.pantrypoints.com/signup"
   - label : "理論について読んでください。"

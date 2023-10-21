@@ -20,15 +20,6 @@ req:
   avatar: "/avatars/smith.png"
 
 
-
-# Pour la communauté, les conglomérats et les citoyens.
-# Le système Pantrypoints couvrira l'ensemble de l'économie, y compris le commerce mondial et la fiscalité.
-# Les Pantrypoints communautaires et les Pantrypoints commerciaux mettent en œuvre les Trisactions via Pantrypoints City.
-# Pantrypreneur est une plateforme destinée aux micro et petites entreprises pour se familiariser avec les Trisactions. Pensez-y comme à un ERP micro-petit.
-# Les services facilitent la transformation numérique des micro et petites entreprises à faible coût, les intégrant ainsi dans les systèmes Pantrypoints et Pantrypreneur.
-# Originellement construit par les Incas.
-
-
 personas:
   title: Les Trisactions
   subtitle: "Les Pantrypoints communautaires et les Pantrypoints commerciaux mettent en œuvre les Trisactions via Pantrypoints City"
@@ -140,21 +131,6 @@ duo2:
 # Les Pantrypoints communautaires et les Pantrypoints commerciaux mettent en œuvre les Trisactions via Pantrypoints City.
 # Pantrypreneur est une plateforme destinée aux micro et petites entreprises pour se familiariser avec les Trisactions. Pensez-y comme à un ERP micro-petit.
 # Les services facilitent la transformation numérique des micro et petites entreprises à faible coût, les intégrant ainsi dans les systèmes Pantrypoints et Pantrypreneur.
-
-
-
-# feedback:
-#   title: "Feedback"
-#   items:
-#     - user : "Prof. Dhanjoo Ghista, University 2020 Foundation President"
-#       image: "/avatars/dhanjoo.jpg"
-#       content: "I very much like this work: A Research Proposal For The Formalization Of The Science Of Supereconomics And The Establishment Of A Point-Based Economic System"
-#       link: "http://www.dhanjooghista.com"
-#     - user : "Prof. Gavin Kennedy, a world expert on Adam Smith"
-#       image: "/avatars/gavin.jpg"
-#       content: "I believe it is developing into a worthwhile project" 
-#       link: "http://adamsmithslostlegacy.blogspot.com"
-
 
 
 

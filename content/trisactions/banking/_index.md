@@ -69,7 +69,6 @@ feedback:
       image: https://sorasystem.sirv.com/logos/startupweekend.png
       content: Top 5 in the Fintech Edition as Debt Clearing System
       link: http://communities.techstars.com
-
     - user : Infinity Blockchain Labs Nationwide Vietnam Blockathon 2017
       image: https://sorasystem.sirv.com/logos/blockathon.jpg
       content: 2nd Place as Social ROSCA

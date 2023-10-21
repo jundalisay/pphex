@@ -13,9 +13,6 @@ personas:
     - name : "Appraise"
       icon : /icons/appraise.png
       content : "A basic performance appraisal system for your employees"
-    # - name : "Inventory"
-    #   image : /icons/pi2.png
-    #   content : "A basic inventory system that connects with points-payments"
     - name : "Jobs"
       icom : /icons/jobs.png
       content : "A job application platform for your company"
@@ -26,14 +23,16 @@ personas:
       icon : /icons/gift.png
       content : "A rewards platform for your customers for their frequent purchases"
       link: /rewards
-    # - name : "Sched"
-    #   image : /icons/cal.png
-    #   content : "A booking system for your customers"
     - name : "Query"
       image : /icons/chat.png
       content : "A basic system for handling customer queries and feedback"
       footer: "<span class='text-secondary'>Deployed</span>"
-
+    # - name : "Inventory"
+    #   image : /icons/pi2.png
+    #   content : "A basic inventory system that connects with points-payments"
+    # - name : "Sched"
+    #   image : /icons/cal.png
+    #   content : "A booking system for your customers"
 
 how:
   title : "How it Works"

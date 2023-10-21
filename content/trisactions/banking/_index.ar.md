@@ -1,65 +1,62 @@
 ---
 linkTitle: Banking
-title: Bank the Unbanked
-description: Pantrypoints Banking is a low-cost moneyless banking system that circulates the economy unserved by the financial system 
+title: تحويل الغير مصرفين إلى مصرفين.
+description:  بنك بانتري بوينتس هو نظام مصرفي خالٍ من التكلفة يدور الاقتصاد الذي لا يخدمه النظام المالي
 banner: "/photos/quipu.jpg"
 youtube: 6b9R04CgS6w
 buttons:
-  - label : "Register in the Waitlist"
+  - label : التسجيل في قائمة الانتظار. 
     link : "https://hub.pantrypoints.com/signup"
     img: "/icons/pantry50.png"
-  - label : "Check out the science"
+  - label : اقرأ عن التفاصيل.
     link : "https://superphysics.org/social/economics/"
     img: "/icons/sp100.png"
 
 
 req:
-  title: Based on the requirements in the Wealth of Nations
+  title: بناءً على متطلبات "ثروة الأمم" لآدم سميث
   link: "https://superphysics.org/research/smith/wealth-of-nations/book-2/chapter-3c"
-  btext: "Read the requirements"
   avatar: "/avatars/smith.png"
 
 
 personas:
   image: "/photos/inca.jpg"
-  title: "Inspired by the Moneyless, Paperless system of the Inca"
-  subtitle: "Points-banking allows the regulated transfer of points between users"
+  title: مستوحى من نظام الإنكا الخالي من النقود والورق
+  subtitle: يتيح البنك المصرفي نقل النقاط بشكل منظم بين المستخدمين
   items:
-    - name : "Moneyless Ok!"
+    - name : بدون أموال! 
       icon: /icons/moneyno.png
-      content : "Points Banking allows economies to work even after a total financial collapse"
-    - name : "Decentralized"
+      content : يسمح بنك النقاط للاقتصادات بالعمل حتى بعد انهيار مالي تام
+    - name : لامركزي. 
       icon: /icons/decen.png    
-      content : "Parties keep their own information preventing info asymmetry"
-    - name : "Flexible"
+      content : لن تؤثر الأزمة في مكان على آخر.
+    - name : مرن. 
       icon: /icons/cards.png
-      content : "Points Banking does not use blockchain and can work offline, just as the Inca were offline"
-    - name : "Asynchronous"
+      content : يمكن لبنك النقاط العمل دون اتصال ولا يستخدم تقنية سلسلة الكتل
+    - name : غير متزامن. 
       icon: /icons/clock.png
-      content : "Parties do not need to fulfill their part immediately"      
-    - name : "Cost Effective"
+      content : لا يحتاج المستخدمون إلى الوفاء بجزء من المعاملة فوراً 
+    - name : فعال من حيث التكلفة. 
       icon: /icons/money.png
-      content : "Points Banking can be deployed on the cloud to reduce costs"
-    - name : "Integrates with Taxation"
-      content : "Points Banking will integrate with Pointtax to allow tax payments in kind"
+      content : يمكن نشر بنك النقاط على السحابة لتقليل التكاليف
+    - name : يتكامل مع الضرائب. 
+      content : سيتكامل بنك النقاط مع Pointtax للسماح بدفع الضرائب عينياً
       icon: /icons/tax.png
 
 
-######################### How #####################
 
 how:
   title : "How it Works"  
   steps:
     - id: 1
-      content: "Gain points with other users and companies in the moneyless economy"  
+      content: اكتسب نقاطًا مع المستخدمين الآخرينu
       image: "/screens/po3.jpg"
     - id: 2 
       image: "/screens/xfer.png"
-      content: "Transfer your points to other users to gain access to their goods and services"
+      content: قم بنقل نقاطك إلى المستخدمين الآخرين للحصول على الوصول إلى سلعهم وخدماتهم
     - id: 3
       image: "/screens/po1.jpg"
-      content: "Use your points as usual"
-
+      content: استخدم نقاطك كالمعتاد
 
 
 feedback:
@@ -67,22 +64,21 @@ feedback:
   items:
     - user : Startup Weekend Cambodia 2017
       image: https://sorasystem.sirv.com/logos/startupweekend.png
-      content: Top 5 in the Fintech Edition as Debt Clearing System
+      content: مركز الخمسة الأوائل في طبعة التكنولوجيا المالية كنظام تسوية الديون
       link: http://communities.techstars.com
-
     - user : Infinity Blockchain Labs Nationwide Vietnam Blockathon 2017
       image: https://sorasystem.sirv.com/logos/blockathon.jpg
-      content: 2nd Place as Social ROSCA
-      # link: http://blockchainlabs.asia
+      content: المركز الثاني كنظام ROSCA اجتماعي
+
 
 
 cta:
-  title : "Register in the Waitlist!"
+  title : "سجل في قائمة الانتظار"
   buttons:
-    - text: "Sure!"
+    - text: "نعم!"
       color: bg-blue-100
       link: "https://hub.pantrypoints.com/signup"
-    - text: "I need to know more"
+    - text: "ليس الآن."
       color: bg-red-100    
       link : "https://superphysics.org/social/economics/solutions/points-banking"
 
