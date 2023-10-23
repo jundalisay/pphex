@@ -3,8 +3,6 @@ title: "Towards Health Democracy"
 banner: "/photos/tomatoes.jpg"
 description: "Diet-Disease Reference is a reference app that allows the five health paradigms of Western Medicine, Ayurveda, Chinese Medicine, Naturopathy, and Homeopathy"
 youtube: M8ztGBQOVDM
-applink: 
-apptext: ""
 banner: /photos/coop.jpg
 buttons:
   - label : "Download the App"
@@ -53,18 +51,6 @@ how:
       id: 3
       content: "Browse the healthcare providers and food sellers for your health problem"      
 
-# duo:
-#   banner: "/photos/holdhands.jpg"
-#   title : "Prevention is Better Than Cure"
-#   subtitle: "Diet Disease Reference promotes healthy eating and suggests the proper food to prevent common diseases. It also has comics narrating the battle between healthy food and junk food."
-#   items:
-#     - image: "/screens/health/dds0.jpg"
-#       imagetext: "Browse the different nutraceuticals and their sellers, to help you optimize your health"
-#     - image: "/graphics/comics.jpg"
-#       imagetext: The app features a comics series on health foods to engage children 
-#       # imagetext: "After you choose the treatment that best matches with you, browse the local third-party suppliers, some of which allow moneyless payments"
-
-
 
 feedback:
   title: "Feedback"
@@ -89,15 +75,6 @@ feedback:
       image: "/icons/seobuddy.jpg"
       content: "I appreciate the effort<br> and love you put in this vision." 
       link: "https://seobuddy.com"
-    # - user : "Aabshar (Pioneer tournament), June 2020"
-    #   image: "/avatars/blankavatar.png"
-    #   content: "Looking forward to mobile app and website. I believe new medicines are more advanced"
-      # link: "http://www.dhanjooghista.com"
-    # - user : "mon.rocks"
-    #   image: "/avatars/blankavatar.png"
-    #   content: "Good effort. Anything medtech is especially crucial these days" 
-    #   link: "https://mon.rocks"
-
 
 
 cta:

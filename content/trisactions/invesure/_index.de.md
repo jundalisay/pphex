@@ -34,7 +34,6 @@ personas:
 how:
   title : "How it Works"
   steps:
-    # - image: "/screens/shop/bec.jpg"
     - content: "Post your investment proposals"
       image: "/screens/pantryinvestshow.jpg"
       id: 1
@@ -46,20 +45,20 @@ how:
       id: 3
 
 
-segment:
-  articles:
-    - title : "Clearing Fund Data"
-      image: "/screens/fundsui.png"
-      content : "Pantrypoints Invesure will include 'Clearing Funds' which will provide trade financing for imports and exports." 
-      button:
-        label: "What are Clearing Funds?"
-        link : "https://www.superphysics.org/research/schumacher/pool-clearing/part-3"
-    - title : "Moneyless Insurance"
-      image: "/points/insurance.png"
-      content : "Insurance points allow moneyless insurance." 
-      # button:
-      #   label: "What are Clearing Funds?"
-      #   link : "https://www.superphysics.org/research/schumacher/pool-clearing/part-3"
+# segment:
+#   articles:
+#     - title : "Clearing Fund Data"
+#       image: "/screens/fundsui.png"
+#       content : "Pantrypoints Invesure will include 'Clearing Funds' which will provide trade financing for imports and exports." 
+#       button:
+#         label: "What are Clearing Funds?"
+#         link : "https://www.superphysics.org/research/schumacher/pool-clearing/part-3"
+#     - title : "Moneyless Insurance"
+#       image: "/points/insurance.png"
+#       content : "Insurance points allow moneyless insurance." 
+#       # button:
+#       #   label: "What are Clearing Funds?"
+#       #   link : "https://www.superphysics.org/research/schumacher/pool-clearing/part-3"
 
 
 
@@ -68,9 +67,13 @@ segment:
 
 cta:
   title : "Register in the Waitlist"
-  link1text: "Sure!"
-  link1 : "https://hub.pantrypoints.com/signup"
-  link2text: "I need to know more"
-  link2 : "https://superphysics.org/social/economics/why-business-is-immoral"
+  buttons:
+    - text: "Sure!"
+      color: bg-blue-100
+      link: "https://hub.pantrypoints.com/signup"
+    - text: "I need to know more"
+      color: bg-red-100    
+      link : "https://superphysics.org/social/economics/why-business-is-immoral"
+
 ---
 

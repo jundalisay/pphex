@@ -5,10 +5,6 @@ description: "Pantrypoints Cards are the offline bardit system that combines bar
 youtube: ZErxZt4V2t4
 banner: /photos/clutter.jpg
 
-# applink: /contact
-# apptext: "Send us an inquiry"
-
-
 
 personas:
   image: "/photos/holdhands.jpg" 
@@ -31,8 +27,6 @@ personas:
     # - name : "Taxation"
     #   content : "Knowing your customer is done through natural meetups instead of through artificial technology"
 
-  # = image_tag 'https://sorasystem.sirv.com/photos/quipu.jpg', class: 'img-fluid rounded'
-
 
 how:
   title : "How it Works"  
@@ -52,22 +46,6 @@ req:
   title: Based on the requirements in the Wealth of Nations
   link: "https://superphysics.org/research/smith/wealth-of-nations/book-5/chapter-3j/"
   avatar: "/avatars/smith.png"
-
-
-
-# feedback:
-#   title: Awards
-#   items:
-#     - user : Startup Weekend Cambodia 2017
-#       image: https://sorasystem.sirv.com/logos/startupweekend.png
-#       content: Top 5 in the Fintech Edition as Debt Clearing System
-#       link: http://communities.techstars.com
-
-#     - user : Infinity Blockchain Labs Nationwide Vietnam Blockathon 2017
-#       image: https://sorasystem.sirv.com/logos/blockathon.jpg
-#       content: 2nd Place as Social ROSCA
-#       link: http://blockchainlabs.asia
-
 
 
 cta:

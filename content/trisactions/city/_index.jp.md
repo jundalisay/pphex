@@ -82,10 +82,13 @@ feedback2:
 
 cta:
   title : "不動産の賃貸"
-  link1text: "Yes, I'm in!"
-  link1 : "https://hub.pantrypoints.com/signup"
-  link2text: "I need to know more"
-  link2 : "https://superphysics.org/research/socrates/simple-republic/book-5/chapter-2"
+  buttons:
+    - text: "はい！"
+      color: bg-blue-100
+      link: "https://hub.pantrypoints.com/signup"
+    - text: "まだです。"
+      color: bg-red-100    
+      link : "https://superphysics.org/research/socrates/simple-republic/book-5/chapter-2"
 
 ---
 

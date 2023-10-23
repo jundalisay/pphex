@@ -1,12 +1,13 @@
 ---
-title: "E-books"
+title: "Boooks and E-books"
 image: "/img/republic.jpg"
 description: "We publish ebooks on Google Play and Amazon"
 date: 2022-04-15
 ---
 
 
-We publish ebooks on Google Play and Amazon
+We design and proofread books, and publish ebooks on Google Play and Amazon
+
 
 ##
 

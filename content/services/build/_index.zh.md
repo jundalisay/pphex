@@ -39,53 +39,6 @@ how:
       content: "You can then tap us to add a web app, mobile app, or cashless payment in the future, or even try our moneyless system (this last possibility is our <a href='/docs/supereconomics/economy-as-a-service/'>ultimate goal</a>)"
 
 
-# req:
-#   title: Based on the requirements in Book 2, Chapter 2 of the Wealth of Nations
-#   link: "https://superphysics.org/research/smith/wealth-of-nations/book-2/chapter-3c"
-#   btext: "Read the requirements"
-#   avatar: "/avatars/smith.png"
-
-
-
-# feedback:
-#   title: Awards
-#   item:
-#     - user : NASA Space Apps Challenge 2018
-#       image: /icons/nasa.jpg
-#       content: Most Inspiring Award as Disaster Relief App
-#       # link: http://communities.techstars.com
-
-#     - user : DISH Hackathon 2018
-#       image: /logos/dish.jpg
-#       content: Special Prize for SORA Galleon
-#       # link: http://blockchainlabs.asia
-
-#     - user : Startup Weekend Cambodia 2017
-#       image: https://sorasystem.sirv.com/logos/startupweekend.png
-#       content: Top 5 in the Fintech Edition as Debt Clearing System
-#       link: http://communities.techstars.com
-
-#     - user : Infinity Blockchain Labs Nationwide Vietnam Blockathon 2017
-#       image: https://sorasystem.sirv.com/logos/blockathon.jpg
-#       content: 2nd Place as Social ROSCA
-#       link: http://blockchainlabs.asia
-
-#     - user : AWS Hackdays 2020
-#       image: /icons/aws.jpg
-#       content: Top 5 for SORA Health
-#       # link: http://communities.techstars.com
-
-#     - user : AWS Hackdays 2019
-#       image: /icons/aws.jpg
-#       content: Top 5 for SORA Relief
-
-#     - user : SLUSH Vietnam 2017
-#       image: /covers/slush.jpg
-#       content: Semifinalist
-#       # link: http://blockchainlabs.asia
-                
-
-##################### Call to action #####################
 
 cta:
   title : "Send us a message to get started"

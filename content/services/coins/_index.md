@@ -38,9 +38,12 @@ personas:
 
 cta:
   title : "We need Coins"
-  link1text: "Send an inquiry"
-  link1 : "/contact"
-  link2text: "I need to know more"
-  link2 : "https://superphysics.org/research/schumacher/pool-clearing/part-1"
+  buttons:
+    - text: "Sure!"
+      color: bg-blue-100
+      link: "/contact"
+    - text: "I need to know more"
+      color: bg-red-100    
+      link2 : "https://superphysics.org/research/schumacher/pool-clearing/part-1"
 
 ---

@@ -198,12 +198,11 @@ weight = 903
 name = "/icons/faq.jpg"
 url = "/faq"
 
+[[menu.main]]
+name = "/icons/about.png"
+weight = 905
+url = "/company"
 
-
-# [[menu.main]]
-#   name = "About"
-#   weight = 90
-#   identifier = "news"
 
 # [[menu.main]]
 #   name = "What We Do"

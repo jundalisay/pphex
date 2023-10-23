@@ -5,9 +5,6 @@ description: "Pantrypoints Cards are the offline bardit system that combines bar
 youtube: ZErxZt4V2t4
 banner: /photos/clutter.jpg
 
-# applink: /contact
-# apptext: "Send us an inquiry"
-
 
 
 personas:
@@ -31,7 +28,6 @@ personas:
     # - name : "Taxation"
     #   content : "Knowing your customer is done through natural meetups instead of through artificial technology"
 
-  # = image_tag 'https://sorasystem.sirv.com/photos/quipu.jpg', class: 'img-fluid rounded'
 
 
 how:

@@ -12,13 +12,11 @@ buttons:
     img: "/icons/sp100.png"
 
 
-
 req:
   title: Based on EF Schumacher's Multilateral Clearing
   link: "https://superphysics.org/solutions/pantrynomics/multilateral-pool-clearing"
   btext: "What's multilateral clearing?"
   avatar: "/avatars/ef.png"
-
 
 
 personas:
@@ -40,8 +38,6 @@ personas:
       content : "Get information on supply and demand in real-time"
 
 
-
-
 how:
   title : "How it Works"
   steps:
@@ -56,7 +52,6 @@ how:
       content: "Accept offers and get paid in local currency to facilitate the sale"        
 
 
-
 feedback:
   title: "Feedback"
   items:
@@ -68,15 +63,6 @@ feedback:
       image: "/logos/arewa.png"
       content: "I love the global trading idea. I would love to use your platform if it works well for Africans" 
       # link: "https://arewaKasuwa.com.ng"
-
-
-# feedback:
-#   title: Awards
-#   item:
-#     - user : DISH Blockchain Competition
-#       image: https://sorasystem.sirv.com/logos/wv.jpg
-#       content: Special Prize 2019
-#       link: "https://worldvision.org.ph/news/social-innovation"
 
 
 cta:

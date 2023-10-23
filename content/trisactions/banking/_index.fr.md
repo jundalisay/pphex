@@ -16,7 +16,6 @@ buttons:
 req:
   title: Based on the requirements in the Wealth of Nations
   link: "https://superphysics.org/research/smith/wealth-of-nations/book-2/chapter-3c"
-  btext: "Read the requirements"
   avatar: "/avatars/smith.png"
 
 
@@ -27,25 +26,23 @@ personas:
   items:
     - name : "Moneyless Ok!"
       icon: /icons/moneyno.png
-      content : "Points Banking allows economies to work even after a total financial collapse"
+      content : "Points Banking allows economies<br> to work even after a total financial collapse"
     - name : "Decentralized"
       icon: /icons/decen.png    
-      content : "Parties keep their own information preventing info asymmetry"
+      content : "Parties keep their own information,<br> preventing info asymmetry"
     - name : "Flexible"
       icon: /icons/cards.png
-      content : "Points Banking does not use blockchain and can work offline, just as the Inca were offline"
+      content : "Points Banking does not use blockchain<br> and can work offline, just as the Inca were offline"
     - name : "Asynchronous"
       icon: /icons/clock.png
-      content : "Parties do not need to fulfill their part immediately"      
+      content : "Parties do not need to fulfill<br> their part immediately"      
     - name : "Cost Effective"
       icon: /icons/money.png
-      content : "Points Banking can be deployed on the cloud to reduce costs"
+      content : "Points Banking can be deployed<br> on the cloud to reduce costs"
     - name : "Integrates with Taxation"
-      content : "Points Banking will integrate with Pointtax to allow tax payments in kind"
+      content : "Points Banking will integrate with<br> Pointtax to allow tax payments in kind"
       icon: /icons/tax.png
 
-
-######################### How #####################
 
 how:
   title : "How it Works"  
@@ -69,7 +66,6 @@ feedback:
       image: https://sorasystem.sirv.com/logos/startupweekend.png
       content: Top 5 in the Fintech Edition as Debt Clearing System
       link: http://communities.techstars.com
-
     - user : Infinity Blockchain Labs Nationwide Vietnam Blockathon 2017
       image: https://sorasystem.sirv.com/logos/blockathon.jpg
       content: 2nd Place as Social ROSCA

@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning"
 image: "https://pantrypoints.com/icons/chartmatch.png"
-description: "We do machine learning"
+description: "We do machine learning in Python"
 date: 2022-04-15
 ---
 

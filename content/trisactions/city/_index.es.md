@@ -76,14 +76,14 @@ feedback2:
       link: "https://writeemote.com"
 
 
-
-
 cta:
-  enable : true
   title : "Do you want to try City?"
-  link1text: "Yes, I'm in!"
-  link1 : "https://hub.pantrypoints.com/signup"
-  link2text: "I need to know more"
-  link2 : "https://superphysics.org/research/socrates/simple-republic/book-5/chapter-2"
+  buttons:
+    - text: "Yes, I'm in!"
+      color: bg-blue-100
+      link: "https://hub.pantrypoints.com/signup"
+    - text: "I need to know more"
+      color: bg-red-100    
+      link : "https://superphysics.org/research/socrates/simple-republic/book-5/chapter-2"
 
 ---

@@ -7,7 +7,6 @@ banner: /photos/shake.jpg
 
   
 personas:
-  # image: /photos/shake.jpg
   title : "Matchmaking isn't just for relationships"
   subtitle: "ISAIAH's 'skills' can help solve chronic problems in society that are unsolved by science"
   items:
@@ -85,21 +84,24 @@ feedback:
       image: "/icons/whoelse.png"
       content: "Amazing progress! I really liked how you turned a theory into a product offering. Keep up the good work!"
       link: "https://whoelse.ai"
-    # - user : "captaindex (Pioneer tournament), April 2020"
-    #   image: "/avatars/blankavatar.png"
-    #   content: "Really good thing! I, too, think personality is an important factor in many fields"
-      # link: "https://intelli-network.com"
     - user : "brainsprays.com"
       image: "/icons/brainsprays.png"
       content: "I'm a long time Myers Briggs (ENTJ) and Enneagram (9) fan so love this stuff" 
       link: "https://brainsprays.com"
+    # - user : "captaindex (Pioneer tournament), April 2020"
+    #   image: "/avatars/blankavatar.png"
+    #   content: "Really good thing! I, too, think personality is an important factor in many fields"
+      # link: "https://intelli-network.com"
 
 
 cta:
   title : "Register in the Waitlist"
-  link1text: "Sure!"
-  link1 : "https://hub.pantrypoints.com/signup"
-  link2text: "I need to know more"
-  link2 : "https://superphysics.org/social/supersociology/principles/part-1/chapter-01/"
+  buttons:
+    - text: "Sure!"
+      color: bg-blue-100
+      link: "https://hub.pantrypoints.com/signup"
+    - text: "I need to know more"
+      color: bg-red-100    
+      link : "https://superphysics.org/social/supersociology/principles/part-1/chapter-01/"
 
 ---

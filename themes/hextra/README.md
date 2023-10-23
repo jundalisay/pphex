@@ -205,33 +205,16 @@ Criminality. Reduce the chance of criminal behavior in your event or organizatio
 
 
 
-
-
-
 Analytics for Pantrypoints. Pantrylitics provides real-time analytics for the Pantrypoints System
 Based on the requirements in Book 1, Chapter 11 of the Wealth of Nations
-
-Nowcasting the Global Supereconomics
-Pantrylitics is the machine learning system for the Pantry Network
-
-Local Trade
-See the supereconomy of each city in real-time
-
-External Trade
-Know which commodities are actively being trade in Pantrypoints World
-
-Clearing Funds
-Check the investment rates for each commodity and connect to Pantrypoints Invest
-
+Nowcasting the Global Supereconomics. Pantrylitics is the machine learning system for the Pantry Network
+Local Trade. See the supereconomy of each city in real-time
+External Trade. Know which commodities are actively being trade in Pantrypoints World
+Clearing Funds. Check the investment rates for each commodity and connect to Pantrypoints Invest
 External Trade Data via Pantrypoints World
-Step 1
-Step 2
-Step 3
-World Pantrylitics shows what foreign commodities are being bought and sold between participating countries. This will prevent speculation and currency fluctuations
-
-
-
-
+1 World Pantrylitics shows what foreign commodities are being bought and sold between participating countries. This will prevent speculation and currency fluctuations
+2 Pantrylitics shows the trade being generated in each city: services, products, real estate, etc. This helps people know where goods and services are lacking or overabundant
+3 Clearing Fund Pantrylitics shows the clearing fund rates for various commodities in each Pantrypoints City and in Pantrypoints World. This will allow people to invest directly
 
 
 Know your nation. ISAIAH Predict is the social prediction tool of Pantrypoints System that uses Supersociology
@@ -279,34 +262,139 @@ Demo → [imfing.github.io/hextra](https://imfing.github.io/hextra/)
 <a href="https://github.com/imfing/hextra/actions/workflows/pages.yml"><img alt="GitHub Actions Status" src="https://github.com/imfing/hextra/actions/workflows/pages.yml/badge.svg"></a> <a href="https://app.netlify.com/sites/hugo-hextra/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/61d6e55a-2447-487e-b59f-c9537e5df175/deploy-status"></a>
 </div>
 
-## Features
 
-- **Beautiful Design** - Inspired by Nextra, Hextra utilizes Tailwind CSS to offer a modern design that makes your site look outstanding.
-- **Responsive Layout and Dark Mode** - It looks great on all devices, from mobile, tablet to desktop. Dark mode is also supported to accomodate various lighting conditions.
-- **Fast and Lightweight** - Powered by Hugo, a lightning-fast static-site generator housed in a single binary file, Hextra keeps its footprint minimal. No Javascript or Node.js are needed to use it.
-- **Full-text Search** - Built-in offline full-text search powered by FlexSearch, no additional configuration required.
-- **Battery-included** - Markdown, syntax highlighting, LaTeX math formulae, diagrams and Shortcodes elements to enhance your content. Table of contents, breadcumbs, pagination, sidebar navigation and more are all automatically generated.
-- **Multi-language and SEO Ready** - Multi-language sites made easy with Hugo's multilingual mode. Out-of-the-box support is included for SEO tags, Open Graph, and Twitter Cards.
+---
+title : "Ang Solusyon sa Pagtaas ng Presyo at Krisis Pang-Ekonomiya"
+description: "Ang Pantrypoints ay isang matatag na economic system, base sa Supereconomics, na gumagamit ng bilateral points para magkaroon ng trabaho at hindi maapektuhan ng Pagtaas ng Presyo"
+# wrong date
+date: 2020-10-06T08:47:36+00:00
+lastmod: 2022-07-27T08:47:36+00:00
+youtube: T9HBJbyIh3w
+banner: "/photos/holdhands.jpg"
+buttons:
+  - label : "Mag-Register sa Waitlist"
+    link : "https://hub.pantrypoints.com/signup"
+    img: "/icons/pantry50.png"
+  - label : "Tingnan ang Supereconomics"
+    link : "https://superphysics.org/social/economics/"
+    img: "/icons/sp100.png"    
 
-## Quick Start
 
-### Use the template
+req:
+  title: Para sa mga Mongol na hindi marunong sa pera, ang mga baka ang sukatan ng halaga. Ang kayamanan para sa kanila ay mga baka, samantalang para sa mga Espanyol ito ay ang ginto at pilak. Ang pananaw ng mga Mongol ang mas tama. (Adam Smith)
+  # link: "https://superphysics.org/research/socrates/simple-republic/book-3/chapter-3"
+  # btext: "View the requirements"
+  avatar: "/avatars/smith.png"
 
-Using the [Hextra Starter Template](https://github.com/imfing/hextra-starter-template) is the simplest method to bootstrap a new website with Hextra theme. Get started by clicking the "Use this template" button on the template repository page.
 
-The template repository also includes a [GitHub Actions workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow) for deploying your website to GitHub Pages.
 
-<img alt="Hextra Starter Template" src="https://user-images.githubusercontent.com/5097752/263551418-c403b9a9-a76c-47a6-8466-513d772ef0b7.jpg" width=600/>
+### COUNTRIES ###
 
-### Usage
+countries:
+  title : "Mga Lokasyon"
+  subtitle: Heto ang mga siyudad kung saan prototype ang aming sistema. 
+  # subtitle: "We'll deploy an app for your city once the waitlist for that city gets filled."
+  flags:
+    - name : "Las Pinas"
+      icon : "/flags/ph.png"
+    - name : "San Pedro Laguna"
+      icon : "/flags/ph.png"
+    - name : "Kuala Lumpur (coming soon!)"
+      icon : "/flags/my.png"
+    - name : "Hanoi (coming soon!)"
+      icon : "/flags/vn.png"
+    - name : "Saigon (coming soon!)"
+      icon : "/flags/vn.png"      
 
-Refer to the [documentation](https://imfing.github.io/hextra/docs) for more information.
 
-## Contributing
 
-Contributions are welcome!
-Check out the [contributing guide](.github/CONTRIBUTING.md) to get started.
 
-## License
 
-[MIT License](./LICENSE)
+
+personas:
+  title: Gumagamit ng Tri-sactions
+  subtitle: "Sa trisactions, pwedeng mag-transact sa pamamagitan ng pera, barter, at cryptocurrencies para mapalaya ang ekonomiya."
+  image: "/photos/yay.jpg"
+  items:
+    - name : "1: Walang Pera"
+      icon: /icons/moneyno.png
+      content : "Ang Moneyless o barter transactions<br> ay gumagamit ng stored-value points<br> na nakabase sa bigas" 
+    - name : "2: Pera"
+      icon: /icons/money.png    
+      content : "Pwedeng gumamit ng pera sa pamamagitan<br> ng 'money points', gamit ang cash o cashless"
+    - name : "3: Metaverse"
+      icon: /icons/eth.png    
+      content : "Ang points ay pwedeng ilipat sa 'XCoins'<br> para magamit sa ethereum transactions"
+            
+
+how:
+  title : "Paano ba Yan Gumagana?"
+  steps:
+    - content: "I-post ang iyong item gamit ang points price"
+      image: "/screens/pantryshow.jpg"
+      id: 1
+    - content: "Magkita sa mga buyers"
+      image: "/photos/shake.jpg"
+      id: 2    
+    - content: "Magbayad sa points"
+      image: "/screens/pay.jpg"
+      id: 3
+      
+
+
+triobutton:
+  title : "Para sa Komunidad, Negosyo, at Mamamayan "
+  subtitle: "Sakop ng Pantrypoints ang buong ekonomiya, kahit na world trade at taxation"
+  banner: "/photos/protests.jpg"
+  items:
+    - image: "/logos/comtri.png"
+      text: "Ginagamit ang Trisactions ng Community Pantrypoints at Business Pantrypoints sa pamamagitan ng Pantrypoints City"
+      linktext: "Ano ang Trisactions?"
+      link: "/trisactions"
+    - image: "/logos/pr.png"
+      text: " Ang Pantrypreneur ay platform para sa micro and small business para sa trisactions"
+      linktext: "Ano ang Pantrypreneur?"
+      link: "/pantrypreneur"
+    - image: "/logos/services.png"
+      text: "Ang Serbisyo namin ay nagtatayo ng Pantrypoints economy"
+      linktext: "Ano ang mga serbisyo ninyo?"
+      link: "/services"      
+
+
+duo2:
+  title : "Inimbento ng mga Inca"
+  subtitle: "Nagtayo ng isang moneyless system ang mga Inca na gumagamit ng hyperlocal warehouse at mga tali para sa record-keeping. Sinira ito ng mga Kastila at pinalitan ng sistemang gamit ang pera"
+  banner: "/photos/inca.jpg"
+  link: "https://gizmodo.com/the-greatest-mystery-of-the-inca-empire-was-its-strange-5872764"
+  linktext: "Paano gumagana ang sistema ng mga Inca?"  
+  items:
+    - image: "/photos/qullqa.jpg"
+      imagetext: "Ang Qulqa system ay<br> pantries namin"
+    - image: "/photos/quipu.jpg"
+      imagetext: "Ang Quipu strings ay<br> points namin, kaya Pantrypoints"
+
+
+feedback:
+  title: "Feedback"
+  items:
+    - user : "Prof. Dhanjoo Ghista, University 2020 Foundation President"
+      image: "/avatars/dhanjoo.jpg"
+      content: "I very much like this work:<br> A Research Proposal For The Formalization<br> Of The Science Of Supereconomics And<br> The Establishment Of A Point-Based Economic System"
+      link: "http://www.dhanjooghista.com"
+    - user : "Prof. Gavin Kennedy, a world expert on Adam Smith"
+      image: "/avatars/gavin.jpg"
+      content: "I believe it is developing into<br> a worthwhile project" 
+      link: "http://adamsmithslostlegacy.blogspot.com"
+
+
+
+cta:
+  title : "Mag-Register sa Waitlist"
+  buttons:
+    - text: "Oo ba!"
+      color: bg-blue-100
+      link: "https://hub.pantrypoints.com/signup"
+    - text: "Magbabasa muna ako"
+      color: bg-red-100    
+      link : "https://superphysics.org/social/economics/fallacies/equilibrium-fallacy"  
+---
