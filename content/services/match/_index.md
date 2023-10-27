@@ -4,6 +4,8 @@ title: "Find the right match. Or just avoid the bad ones"
 description: "ISAIAH Match is our personality matching system for education, jobs, products, fake news, and relationships, as a part of a new morality-based socio-economic system"
 youtube: 5alMsLDgc00
 banner: /photos/shake.jpg
+aliases:
+  /match 
 
   
 personas:

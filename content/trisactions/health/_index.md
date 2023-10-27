@@ -10,7 +10,8 @@ buttons:
   - label : "Download the App"
     link : https://play.google.com/store/apps/details?id=com.pantrypoints.diet
     img: "/icons/dd.png"
-
+aliases:
+  /health
 
 req:
   title: Based on the requirements in Book 3, Chapter 3 of the Republic

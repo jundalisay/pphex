@@ -4,7 +4,8 @@ title: "The Maximized Farming System"
 description: "Pantrypreneur Farm is a management app for a 'Maximum Farm'"
 youtube: blkb6Y_veTs 
 banner: /photos/coconuts.jpg
-
+aliases:
+  /farm
  
 req:
   title: Based on the requirements in Ideal Farming 

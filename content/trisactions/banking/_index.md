@@ -11,6 +11,9 @@ buttons:
   - label : "Check out the science"
     link : "https://superphysics.org/social/economics/"
     img: "/icons/sp100.png"
+aliases:
+  /banking
+
 
 
 req:
