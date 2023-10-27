@@ -13,7 +13,6 @@ buttons:
     img: "/icons/sp100.png"
 
 
-
 req:
   title: 'All nations have endeavoured, to the best of their judgment, to render their taxes as equal, certain, convenient as possible. Historical taxes will show that these endeavours were not equally successful'
   link: "https://superphysics.org/research/smith/wealth-of-nations/book-5/chapter-2/part-2a-tax-maxims"
