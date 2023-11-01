@@ -37,7 +37,7 @@ personas:
 
 
 
-\how:
+how:
   title : "How it Works"
   steps:
     - image: "/screens/po1.jpg"
