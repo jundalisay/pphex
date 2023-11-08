@@ -1,10 +1,9 @@
 ---
 title: "Socratic FAQ"
-description: "Pantrypoints FAQ"
+description: "We answer common quetions about Pantrypoints and Pantrypreneur"
 image: /og/pantrypoints.jpg
 toc: false
 ---
-
 
 
 {{< r a="Asker" >}}
